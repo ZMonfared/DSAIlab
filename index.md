@@ -21,7 +21,7 @@ Other directions. Another focus of our group is developing deep learning framewo
 {% include section.html %}
 
 ## Our Team 
-# ![ Team photo ](images/5820970323481314659.jpg)
+
 <div style="text-align: center;">
   <img src="images/5820970323481314659.jpg" alt="team photo" style="width: 50%; height: auto;"/>
 </div>
