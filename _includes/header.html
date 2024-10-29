@@ -8,14 +8,8 @@
 
 <header
   class="background"
-  style="--image: url('/images/background.jpg')"
-  {% if dark == true or dark == false %}
-    data-dark="{{ dark }}"
-  {% endif %}
-  {% if page.url == "/" %}
-    data-big
-  {% endif %}
->
+  style="background-image: url('/images/background.jpg'); background-size: cover; background-position: center;">
+
   <a href="{{ "/" | relative_url }}" class="home">
     {% if logo %}
       <span class="logo">
