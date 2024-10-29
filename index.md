@@ -1,7 +1,7 @@
 ---
 ---
 
-# MahshidBaharifar's Website
+# Mathematics and AI Website 
 
 Welcome! 
 
