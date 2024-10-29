@@ -20,5 +20,5 @@ Other directions. Another focus of our group is developing deep learning framewo
 
 {% include section.html %}
 
-## ![ some space description ](images/5820970323481314659.jpg)
-** this is some more description
+## ![ Team photo ](images/5820970323481314659.jpg)
+** In our lab, we value collaboration, equality, diversity, inclusion. We also respect our differences, and try to get best out of it.
