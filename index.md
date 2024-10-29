@@ -3,7 +3,10 @@
 
 # MahshidBaharifar's Website
 
-An engaging 1-3 sentence description of your lab.
+Welcome! 
+
+Our group (started September 2024) is funded by the Federal Ministry of Education and Research (BMBF) through project OIDLITDSM in the field of AI. It is located at the Interdisciplinary Center for Scientific Computing (IWR), Heidelberg University. 
+
 
 {% include section.html %}
 
