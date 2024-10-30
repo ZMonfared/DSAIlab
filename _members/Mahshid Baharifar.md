@@ -1,7 +1,7 @@
 ---
 name: Mahshid Baharifar
 image: images/Mahshid-Image.jpg
-role: pi
+role: ra
 aliases:
   - M. Bahari
   - m.bahari
