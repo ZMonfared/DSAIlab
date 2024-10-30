@@ -6,9 +6,9 @@ nav:
 ---
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
-
-In our lab, we value collaboration, equality, diversity, inclusion. We also respect our differences, and try to get best out of it
-
+<div style="text-align: center;">
+  In our lab, we value collaboration, equality, diversity, inclusion. We also respect our differences, and try to get best out of it
+</div>
 {% include section.html %}
 <div style="text-align: center;">
   <img src="../images/5820970323481314659.jpg" alt="team photo" style="width: 50%; height: auto;"/>
