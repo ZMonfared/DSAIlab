@@ -23,7 +23,7 @@ Our group (started September 2024) is funded by the **Federal Ministry of Educat
 
 {% include section.html %}
 
-## Our Team 
+## **Our Team** 
 
 <div style="text-align: center;">
   <img src="images/5820970323481314659.jpg" alt="team photo" style="width: 50%; height: auto;"/>
