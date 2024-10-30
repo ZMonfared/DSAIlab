@@ -16,14 +16,9 @@ nav:
 
 {% include section.html %}
 
-<div style="display: flex; overflow-x: auto; white-space: nowrap; align-items: center; gap: 10px;">
-  
+<div style="display: flex; overflow-x: auto; white-space: nowrap; align-items: center; height: 200px;">
   {% include list.html data="members" component="portrait" filter="role == 'pi'" %}
- 
- 
   {% include list.html data="members" component="portrait" filter="role != 'pi'" %}
- 
-  
 </div>
 
 
