@@ -2,7 +2,7 @@
 name: Mahshid Baharifar
 image: images/photo.jpg
 role: ra
-affiliation: Heidelberg University
+
 aliases:
   - M. Bahari
   - m.bahari
