@@ -10,6 +10,11 @@ nav:
 In our lab, we value collaboration, equality, diversity, inclusion. We also respect our differences, and try to get best out of it
 
 {% include section.html %}
+<div style="text-align: center;">
+  <img src="images/5820970323481314659.jpg" alt="team photo" style="width: 50%; height: auto;"/>
+</div>
+
+{% include section.html %}
 
 {% include list.html data="members" component="portrait" filter="role == 'pi'" %}
 {% include list.html data="members" component="portrait" filter="role != 'pi'" %}
