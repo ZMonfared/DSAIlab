@@ -11,7 +11,7 @@ In our lab, we value collaboration, equality, diversity, inclusion. We also resp
 
 {% include section.html %}
 <div style="text-align: center;">
-  <img src="images/5820970323481314659.jpg" alt="team photo" style="width: 50%; height: auto;"/>
+  <img src="../images/5820970323481314659.jpg" alt="team photo" style="width: 50%; height: auto;"/>
 </div>
 
 {% include section.html %}
