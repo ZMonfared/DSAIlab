@@ -1,11 +1,11 @@
 ---
-name: Jane Smith
+name: Mahshid Baharifar
 image: images/photo.jpg
-role: pi
-affiliation: University of Colorado
+role: ra
+affiliation: Heidelberg University
 aliases:
-  - J. Smith
-  - J Smith
+  - M. Bahari
+  - m.bahari
 links:
   home-page: https://janesmith.com
   orcid: 0000-0001-8713-9213
