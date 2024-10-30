@@ -16,11 +16,11 @@ nav:
 
 {% include section.html %}
 
-<div style="display: flex; overflow-x: auto; white-space: nowrap; align-items: center;">
-  <div style="flex: 0 0 100px; height: 100px; overflow: hidden;">
+<div style="display: flex; overflow-x: auto; white-space: nowrap; align-items: center; gap: 10px;">
+  <div style="flex: 0 0 100px; height: 200px; overflow: hidden;">
     {% include list.html data="members" component="portrait" filter="role == 'pi'" %}
   </div>
-  <div style="flex: 0 0 100px; height: 100px; overflow: hidden;">
+  <div style="flex: 0 0 100px; height: 200px; overflow: hidden;">
     {% include list.html data="members" component="portrait" filter="role != 'pi'" %}
   </div>
   
