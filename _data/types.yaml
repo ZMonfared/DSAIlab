@@ -18,6 +18,10 @@ undergrad:
   icon: fa-solid fa-user-graduate
   description: Undergraduate Student
 
+ra:
+  icon: fa-solid fa-book
+  description: Research Asistance
+
 programmer:
   icon: fa-solid fa-code
   description: Programmer
