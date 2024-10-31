@@ -8,12 +8,12 @@ footer: images/background.jpg
 
 # site social media and other links
 links:
-  email: contact@MahshidBaharifar.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
-  github: MahshidBaharifar
-  twitter: MahshidBaharifar
-  youtube: MahshidBaharifar
+  email: zahra.monfared@iwr.uni-heidelberg.de | zahra.monfared@tum.de
+  orcid: 0049-0629-8713-9213
+  google-scholar: https://scholar.google.pl/citations?user=OPUIwIoAAAAJ&hl=en
+  github: MathofAI
+  twitter: @Zahra__Monfared
+  youtube: 
 
 ### jekyll settings
 
