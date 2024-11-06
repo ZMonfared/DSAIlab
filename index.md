@@ -3,7 +3,7 @@
 
 # <span style="color: #114584; font-weight: bold;">Mathematics and AI Website</span> 
 
-<span style="color: #072140; font-weight: bold;"> **Welcome!** </span> 
+<span style="color: #072140; font-weight: bold;">Welcome!</span> 
 
 Our group (started September 2024) is funded by the **Federal Ministry of Education and Research (BMBF)** through project OIDLITDSM in the field of AI. It is located at the **Interdisciplinary Center for Scientific Computing (IWR)**, Heidelberg University.
 
