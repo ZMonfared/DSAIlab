@@ -7,7 +7,7 @@
 
 Our group (started September 2024) is funded by the **Federal Ministry of Education and Research (BMBF)** through project OIDLITDSM in the field of AI. It is located at the **Interdisciplinary Center for Scientific Computing (IWR)**, Heidelberg University.
 
-## <span style="color: #114584; font-weight: bold; font-size: 2em;">Research</span>
+## <span style="color: #114584; font-weight: bold; font-size: 1.5em;">Research</span>
 
 **We are mainly interested in two research directions**:
 
@@ -17,14 +17,14 @@ We aim to develop a mathematical foundation for understanding the design, traini
 ### <span style="color: #072140; font-weight: bold;">**AI for Solving Mathematical Problems**.</span> 
 There has been a substantial paradigm shift in the field of mathematics, particularly in applied mathematics, due to the utilization of AI techniques. In this context, we use neural networks to analyze and develop numerical algorithms for approximating solutions to Partial Differential Equations (PDEs) through machine learning approaches. We will also examine some mathematical inverse problems, such as determining governing differential equations from given datasets with such techniques.
 
-## <span style="color: #114584; font-weight: bold; font-size: 2em;">Publications</span>
+## <span style="color: #114584; font-weight: bold; font-size: 1.5em;">Publications</span>
 
 List your publications here.
 
 <span style="color: #114584; font-weight: bold; font-size: 1.5em;">Other directions</span>
 Another focus of our group is developing deep learning frameworks to enhance neuroimaging analysis by integrating various types of brain imaging data. This approach merges structural and functional information to better understand brain health, particularly in relation to neurodegenerative diseases. This methodology aims to identify patterns in brain structure and activity, which could improve diagnostic accuracy and monitor disease progression.
 
-## <span style="color: #114584; font-weight: bold; font-size: 2em;">Applications</span>
+## <span style="color: #114584; font-weight: bold; font-size: 1.5em;">Applications</span>
 
 <span style="color: #072140;">We will apply our methodological tools and results in various fields, including neuroscience, weather and climate, economics, engineering, healthcare, etc.</span>
 
