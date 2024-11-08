@@ -1,7 +1,7 @@
 # site properties and page defaults
 title: DSAI
 subtitle: Dynamical System and Artificial Intelligence
-description: An engaging 1-3 sentence description of your lab.
+description: Developing mathematically grounded AI methods to model complex dynamical systems and solve mathematical problems.
 header: images/background.jpg
 footer: images/background.jpg
 # proofer: false
