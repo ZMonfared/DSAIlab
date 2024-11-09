@@ -8,7 +8,7 @@
 Our group (started September 2024) is funded by the **Federal Ministry of Education and Research (BMBF)** through project OIDLITDSM in the field of AI. It is located at the **Interdisciplinary Center for Scientific Computing (IWR)**, Heidelberg University.
 
 <div style="text-align: center;">
-  <img src="images/Pic_BMBF_Up4.png" alt="team photo" style="width: 50%; height: auto;"/>
+  <img src="images/Pic_BMBF_Up4.png" alt="team photo" style="width: 75%; height: auto;"/>
 </div>
 
 ## <span style="color: #114584; font-weight: bold; font-size: 1.5em;">Research</span>
@@ -37,7 +37,7 @@ Another focus of our group is developing deep learning frameworks to enhance neu
 ## **Our Team** 
 
 <div style="text-align: center;">
-  <img src="images/5820970323481314659.jpg" alt="team photo" style="width: 50%; height: auto;"/>
+  <img src="images/5820970323481314659.jpg" alt="team photo" style="width: 75%; height: auto;"/>
 </div>
 
 **In our lab, we value collaboration, equality, diversity, and inclusion. We also respect our differences and strive to bring out the best in each other.**
