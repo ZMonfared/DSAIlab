@@ -1,7 +1,7 @@
 ---
 ---
 
-# <span style="color: #114584; font-weight: bold; font-size: 1.5em;">Mathematics and AI Website</span>
+# <span style="color: #114584; font-weight: bold; font-size: 1.5em;">Dynamical System and AI Website</span>
 
 ## <span style="font-weight: bold; font-size: 1em;">Welcome!</span> 
 
