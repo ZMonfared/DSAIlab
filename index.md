@@ -34,7 +34,7 @@ Another focus of our group is developing deep learning frameworks to enhance neu
 
 {% include section.html %}
 
-## **Our Team** 
+## <span style="color: #114584; font-weight: bold; font-size: 1.5em;">Our Team</span>
 
 <div style="text-align: center;">
   <img src="images/5820970323481314659.jpg" alt="team photo" style="width: 75%; height: auto;"/>
