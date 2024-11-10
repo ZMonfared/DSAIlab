@@ -1,6 +1,6 @@
 ---
 name: Hannes Schwab
-image: images/photo.jpg
+image: images/Hannes.jpeg
 role: phd
 group: alum
 links:
