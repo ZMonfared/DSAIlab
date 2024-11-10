@@ -53,12 +53,10 @@ Welcome! If you would like to reach out, please use the contact information belo
 {% endcapture %}
 
 {% capture col2 %}
-{%
-  include figure.html
-  image="images/Zahra_photo.jpg"
-  caption="Zahra Monfared, BMBF Research Group Leader"
-  style="height: 50%;"
-%}
+<div style="text-align: center;">
+  <img src="images/Zahra_photo.jpg" alt="Zahra Monfared, BMBF Research Group Leader" style="height: 50%;">
+  <p>Zahra Monfared, BMBF Research Group Leader</p>
+</div>
 {% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 %}
