@@ -4,7 +4,7 @@ nav:
   order: 3
   tooltip: About our Publications
 ---
-# {% include icon.html icon="fa-solid fa-microscope" style="color: #114584 %}Publications
+# {% include icon.html icon="fa-solid fa-microscope" style="color: #114584;" %}Publications
 
 <span style="color: #072140;">Our research focuses on advancing the mathematical understanding of AI, particularly in deep learning and dynamical systems. We aim to create innovative, interpretable algorithms that solve real-world challenges in neuroscience, climate science, and beyond.</span>
 
