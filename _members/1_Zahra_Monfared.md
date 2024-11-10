@@ -1,7 +1,7 @@
 ---
 name: Zahra Monfared
 image: images/Zahra_photo.jpg
-role: pm
+role: research-group-leader
 links:
   home-page: https://scholar.google.pl/citations?user=OPUIwIoAAAAJ&hl=en
   email: zahra.monfared@iwr.uni-heidelberg.de 
