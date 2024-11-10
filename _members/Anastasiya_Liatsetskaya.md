@@ -2,10 +2,10 @@
 name:  Anastasiya Liatsetskaya
 
 image: images/photo.jpg
-role: postdoc
+role: phd
 group: alum
 links:
-  email: anastasiya.liatsetskaya@iwr.uni-heidelberg.de
+  email: anastasiya.liatsetskaya@iwr-uni-heidelberg.de
 ---
 
 description
