@@ -23,7 +23,7 @@ There has been a substantial paradigm shift in the field of mathematics, particu
 
 ## <span style="color: #114584; font-weight: bold; font-size: 1.5em;">Publications</span>
 
-For more details, visit our [Publications Page](publication/index.md).
+For more details, visit our [Publications Page](publication/).
 
 ## <span style="color: #114584; font-weight: bold; font-size: 1.5em;">Other directions</span>
 Another focus of our group is developing deep learning frameworks to enhance neuroimaging analysis by integrating various types of brain imaging data. This approach merges structural and functional information to better understand brain health, particularly in relation to neurodegenerative diseases. This methodology aims to identify patterns in brain structure and activity, which could improve diagnostic accuracy and monitor disease progression.
