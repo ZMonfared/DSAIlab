@@ -6,6 +6,10 @@ pm:
   icon: fa-solid fa-people-roof
   description: Project Manager
 
+research-group-leader:
+  icon: fa-solid fa-chalkboard-teacher
+  description: Research Group Leader
+
 postdoc:
   icon: fa-solid fa-glasses
   description: Postdoctoral Researcher
