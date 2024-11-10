@@ -5,7 +5,7 @@ nav:
   tooltip: About our Publications
 ---
 ## Publications
----
+
 **<span style="color: #114584; font-size: 1.2em;">2024</span>**
 
 <ol style="text-align: left; list-style-position: outside; padding-left: 1.2em;">
