@@ -1,7 +1,7 @@
 ---
 title: Teaching
 nav:
-  order: 6
+  order: 4
   tooltip: Software, datasets, and more
 ---
 
