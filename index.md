@@ -43,7 +43,7 @@ Another focus of our group is developing deep learning frameworks to enhance neu
 ## <span style="color: #114584; font-weight: bold; font-size: 1.5em;">Our Team</span>
 
 <div style="text-align: center;">
-  <img src="images/5820970323481314659.jpg" alt="team photo" style="width: 75%; height: auto;"/>
+  <img src="images/Team-image-new.jpg" alt="team photo" style="width: 75%; height: auto;"/>
 </div>
 
 **In our lab, we value collaboration, equality, diversity, and inclusion. We also respect our differences and strive to bring out the best in each other.**
