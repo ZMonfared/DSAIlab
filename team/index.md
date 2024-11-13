@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 <div style="text-align: center;">
-  In our lab, we value collaboration, equality, diversity, inclusion. We also respect our differences, and try to get best out of it
+  In our lab, we value collaboration, equality, diversity, inclusion. We also respect our differences, and try to get best out of it.
 </div>
 {% include section.html %}
 <div style="text-align: center;">
@@ -16,11 +16,6 @@ nav:
 
 {% include section.html %}
 
-<div style="display: flex; overflow-x: auto; white-space: nowrap; align-items: center;">
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
   {% include list.html data="members" component="portrait" %}
 </div>
-
-
-
-
-
