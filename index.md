@@ -26,7 +26,7 @@ There has been a substantial paradigm shift in the field of mathematics, particu
 Our research focuses on advancing the mathematical understanding of AI, particularly in deep learning and dynamical systems. We aim to create innovative, interpretable algorithms that solve real-world challenges in neuroscience, climate science, and beyond.
 
 <div style="text-align: center;">
-  <img src="images/Publications_section_image.jpeg" alt="publication photo" style="width: 75%; height: 75%;"/>
+  <img src="images/Publications_section_image.jpeg" alt="publication photo" style="width: 75%; height: 25%;"/>
 </div>
 
 For more details, visit our [Publications Page](publication/).
