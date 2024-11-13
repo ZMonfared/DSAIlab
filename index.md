@@ -32,19 +32,21 @@ Our research focuses on advancing the mathematical understanding of AI, particul
 For more details, visit our [Publications Page](publication/).
 
 ## <span style="color: #114584; font-weight: bold; font-size: 1.5em;">Other directions</span>
-Another focus of our group is developing deep learning frameworks to enhance neuroimaging analysis by integrating various types of brain imaging data. This approach merges structural and functional information to better understand brain health, particularly in relation to neurodegenerative diseases. This methodology aims to identify patterns in brain structure and activity, which could improve diagnostic accuracy and monitor disease progression.
+Our group also focuses on advancing AI techniques for neuroimaging analysis by developing deep learning frameworks that combine multiple modalities of brain imaging data. By integrating structural imaging (such as MRI) and functional imaging (such as fMRI or EEG), we aim to gain a comprehensive view of brain health. This integrative approach helps in identifying subtle patterns in brain structure and activity associated with neurodegenerative diseases, such as Alzheimer’s and Parkinson’s. Additionally, it enables us to understand the dynamic processes underlying cognitive functions and brain disorders. Our goal is to improve early diagnostic accuracy and contribute to the development of personalized monitoring tools for tracking disease progression, which may eventually aid in creating targeted therapeutic strategies.
 
 ## <span style="color: #114584; font-weight: bold; font-size: 1.5em;">Applications</span>
 
-<span style="color: #072140;">We will apply our methodological tools and results in various fields, including neuroscience, weather and climate, economics, engineering, healthcare, etc.</span>
+<span style="color: #072140;">The methodological advancements and tools we develop are intended for application across a wide range of fields where data-driven insights can provide impactful solutions. In neuroscience, our models help identify biomarkers and patterns critical to brain health, while in climate science, our algorithms are applied to predict weather patterns, model climate change impacts, and optimize environmental data analysis. Furthermore, we extend our research to economics, where AI-driven models can improve financial forecasting and risk management. In engineering, we design frameworks for predictive maintenance and enhance system efficiency. Additionally, healthcare applications include disease diagnosis, treatment optimization, and personalized patient care. By leveraging our theoretical and computational tools, we aim to address complex challenges in these fields, creating interdisciplinary solutions that are interpretable, robust, and effective in real-world scenarios.</span>
 
 {% include section.html %}
 
 ## <span style="color: #114584; font-weight: bold; font-size: 1.5em;">Our Team</span>
 
+**In our lab, we value collaboration, equality, diversity, and inclusion. We also respect our differences and strive to bring out the best in each other.**
+
 <div style="text-align: center;">
   <img src="images/Team-image-new.jpg" alt="team photo" style="width: 75%; height: auto;"/>
 </div>
 
-**In our lab, we value collaboration, equality, diversity, and inclusion. We also respect our differences and strive to bring out the best in each other.**
+
 
