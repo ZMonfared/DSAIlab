@@ -11,7 +11,9 @@ tags:
   - Dynamical Systems
 ---
 
-
+<div style="text-align: center;">
+  <img src="images/new-position-image.png" alt="group image photo" style="width: 500px; height: auto;"/>
+</div>
 
 We are excited to announce a **PhD position opening** in our BMBF-funded Independent Research Group at Heidelberg University, Germany. With generous funding of approximately €1.31 million from the Federal Ministry of Education and Research (BMBF), our team focuses on cutting-edge research at the intersection of Artificial Intelligence and mathematics.
 
