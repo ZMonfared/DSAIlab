@@ -7,8 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-feather-pointed" %}News
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+**Welcome to our News page!** Here, we will share the latest updates, achievements, and insights from our research group. Stay tuned for exciting announcements, project progress, and highlights of our journey in advancing the frontiers of Artificial Intelligence and dynamical systems modeling.
 
 {% include section.html %}
 
