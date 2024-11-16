@@ -26,7 +26,7 @@ There has been a substantial paradigm shift in the field of mathematics, particu
 Our research focuses on advancing the mathematical understanding of AI, particularly in deep learning and dynamical systems. We aim to create innovative, interpretable algorithms that solve real-world challenges in neuroscience, climate science, and beyond.
 
 <div style="text-align: center;">
-  <img src="images/Publications_section_image.jpeg" alt="publication photo" style="width: 75%; height: 500px;"/>
+  <img src="images/Publications_section_image.jpeg" alt="publication photo" style="width: 60%; height: 350px;"/>
 </div>
 
 For more details, visit our [Publications Page](publication/).
@@ -40,13 +40,9 @@ Our group also focuses on advancing AI techniques for neuroimaging analysis by d
 
 {% include section.html %}
 
-## <span style="color: #114584; font-weight: bold; font-size: 1.5em;">Our Team</span>
 
-**In our lab, we value collaboration, equality, diversity, and inclusion. We also respect our differences and strive to bring out the best in each other.**
 
-<div style="text-align: center;">
-  <img src="images/Team-image-new.jpg" alt="team photo" style="width: 75%; height: auto;"/>
-</div>
+
 
 
 
