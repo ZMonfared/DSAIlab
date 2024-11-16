@@ -55,7 +55,7 @@ Welcome! If you would like to reach out, please use the contact information belo
 {% capture col2 %}
 {%
   include figure.html
-  image="images/Zahra_photo.jpg"
+  image="images/group-image-corner.jpg"
   caption="Zahra Monfared, BMBF Research Group Leader"
   style="height: 100px;"
 %}
