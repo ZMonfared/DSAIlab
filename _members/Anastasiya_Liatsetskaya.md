@@ -1,7 +1,7 @@
 ---
 name:  Anastasiya Liatsetskaya
 
-image: images/photo.jpg
+image: images/anastasia-image.jpg
 role: phd
 group: alum
 links:
