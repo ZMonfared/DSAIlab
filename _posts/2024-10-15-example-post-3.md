@@ -1,6 +1,6 @@
 ---
 title: PhD Opening for Our Project
-image: images/group-photo.jpg
+image: images/new position.webp
 author: Zahra Monfared
 tags:
   - machine learning
