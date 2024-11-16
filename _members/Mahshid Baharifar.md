@@ -1,7 +1,7 @@
 ---
 name: Mahshid Baharifar
 image: images/mahshid_image.jpg
-role: Research Assistant
+role: ra
 aliases:
   - M. Baharifar
   - M. Bahari
@@ -9,7 +9,7 @@ links:
   home-page: https://mahshidbaharifar.github.io
   linkedin: https://www.linkedin.com/in/mahshid-baharifar
   github: https://github.com/MahshidBaharifar
-  orcid: 0000-0001-8713-9213
+  orcid: 0049-0178-3768-055
 ---
 
 **About Me**  
