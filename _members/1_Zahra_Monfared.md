@@ -40,11 +40,13 @@ Germany</span>
 ### <span style="color: #114584;">Research Interests</span>
 
 <span style="color: #072140;">
-- Mathematics of AI  
-- Dynamical systems and Koopman operator theory  
-- Machine learning and AI for numerical methods  
+- Mathematics of AI 
+- scientific machine learning
+- Complex Dynamical Systems   
+- Koopman operator theory
+- Machine learning for numerical methods  
 - Neuroimaging and brain health analysis  
-- Applied geometry and functional analysis  
+- Applied geometry, topology and functional analysis  
 </span>
 
 ---
@@ -52,10 +54,13 @@ Germany</span>
 ### <span style="color: #114584;">Honours and Awards</span>
 
 <span style="color: #072140;">
-- BMBF Research Funding (~1.31M €) for AI and dynamical systems research (2024–2027)  
-- NeurIPS Outstanding Reviewer Award, 2021  
+- BMBF Research Funding (my own position,
+one Postdoc, 2 PhD positions and one student assistant)in the field of AI (2024–2027)  
+- NeurIPS Outstanding Reviewer Award, 2021
+- Research Visit Funding During Ph.D. Program. Institute for Analysis and Algebra, Technical
+University of Braunschweig, Germany.
 - Ranked 1st in Ph.D. program with highest GPA  
-- Multiple grants for research in Koopman operator theory and machine learning  
+- Graduated with Honors in M.Sc. and B.Sc. programs  
 </span>
 
 ---
