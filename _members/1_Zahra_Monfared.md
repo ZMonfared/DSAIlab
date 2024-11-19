@@ -14,26 +14,25 @@ links:
 
 ### <span style="color: #114584;">Address</span>
 
-<span style="color: #072140;">**Technical University of Munich**  
-TUM School of CIT  
-Department of Computer Science  
-Boltzmannstraße 3  
-85748 Garching  
+<span style="color: #072140;">**Heidelberg University**  
+Interdisciplinary Center for Scientific Computing (IWR)  
+Department of Mathematics and Computer Science  
+Im Neuenheimer Feld 205  
+69120 Heidelberg  
 Germany</span>
 
-<span style="color: #072140;"><strong>Office</strong>: MI 02.05.041</span>  
-<span style="color: #072140;"><strong>Email</strong>: <a href="mailto:zahra.monfared@tum.de" style="color: #114584;">zahra.monfared@tum.de</a></span>  
-<span style="color: #072140;"><strong>Office hours</strong>: by arrangement</span>
+<span style="color: #072140;"><strong>Email</strong>: <a href="mailto:zahra.monfared@iwr.uni-heidelberg.de" style="color: #114584;">zahra.monfared@iwr.uni-heidelberg.de</a></span>  
+<span style="color: #072140;"><strong>Office hours</strong>: By arrangement</span>
 
 ---
 
 ### <span style="color: #114584;">Education</span>
 
 <span style="color: #072140;">
-- Post-Doctoral Researcher in Physics-enhanced Machine Learning at Technical University of Munich, Germany
-- Post-Doctoral Researcher in Scientific Machine Learning at Heidelberg University, Germany
-- PhD in Applied Mathematics (Dynamical Systems) at Ferdowsi University of Mashhad, Iran
-- M.Sc. in Pure Mathematics (Geometry-Differential Equations) at Ferdowsi University of Mashhad, Iran
+- BMBF Independent Research Group Leader in AI, Heidelberg University, Germany  
+- Ph.D. in Applied Mathematics (Dynamical Systems) - Ferdowsi University of Mashhad, Iran  
+- Post-Doctoral Researcher in Scientific Machine Learning - Heidelberg University, Germany  
+- M.Sc. in Pure Mathematics (Geometry and Differential Equations) - Ferdowsi University of Mashhad, Iran  
 </span>
 
 ---
@@ -41,13 +40,11 @@ Germany</span>
 ### <span style="color: #114584;">Research Interests</span>
 
 <span style="color: #072140;">
-- Complex dynamical systems
-- Machine learning
-- Koopman operator
-- Data-driven modeling of complex systems
-- Mathematics of AI
-- Applied geometry and topology
-- Functional analysis
+- Mathematics of AI  
+- Dynamical systems and Koopman operator theory  
+- Machine learning and AI for numerical methods  
+- Neuroimaging and brain health analysis  
+- Applied geometry and functional analysis  
 </span>
 
 ---
@@ -55,13 +52,28 @@ Germany</span>
 ### <span style="color: #114584;">Honours and Awards</span>
 
 <span style="color: #072140;">
-- NeurIPS 2021 Outstanding Reviewer Award
-- 1st ranked student with highest GPA in PhD program
-- Honor student in M.Sc. and B.Sc. program
+- BMBF Research Funding (~1.31M €) for AI and dynamical systems research (2024–2027)  
+- NeurIPS Outstanding Reviewer Award, 2021  
+- Ranked 1st in Ph.D. program with highest GPA  
+- Multiple grants for research in Koopman operator theory and machine learning  
 </span>
 
 ---
 
 ### <span style="color: #114584;">Publications</span>
 
-<span style="color: #072140;">See <a href="https://scholar.google.pl/citations?user=OPUIwIoAAAAJ&hl=en" style="color: #114584;">Google Scholar</a> for the full list of publications.</span>
+<span style="color: #072140;">
+2024  
+- **Gradient-free training of recurrent neural networks** (arXiv:2405.08967)  
+- **Role of Parameterization in Learning Dynamics of RNNs** (NeurIPS OPT2024)  
+- **Almost-Linear RNNs Yield Symbolic Codes in Systems Reconstruction** (NeurIPS 2024)  
+
+2023  
+- **Generalized Teacher Forcing for Learning Chaotic Dynamics** (ICML 2023)  
+
+2022  
+- **On the Difficulty of Learning Chaotic Dynamics with RNNs** (NeurIPS 2022)  
+- **Tractable dendritic RNNs for reconstructing nonlinear dynamical systems** (ICML 2022)  
+
+See [Google Scholar](https://scholar.google.pl/citations?user=OPUIwIoAAAAJ&hl=en) for the full list.
+</span>
