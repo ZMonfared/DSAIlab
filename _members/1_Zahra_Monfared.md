@@ -75,5 +75,5 @@ Germany</span>
 - **On the Difficulty of Learning Chaotic Dynamics with RNNs** (NeurIPS 2022)  
 - **Tractable dendritic RNNs for reconstructing nonlinear dynamical systems** (ICML 2022)  
 
-See [Google Scholar](https://scholar.google.pl/citations?user=OPUIwIoAAAAJ&hl=en) for the full list.
+- See [Google Scholar](https://scholar.google.pl/citations?user=OPUIwIoAAAAJ&hl=en) for the full list.
 </span>
