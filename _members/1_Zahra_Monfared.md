@@ -14,12 +14,13 @@ links:
 
 ### <span style="color: #114584;">Address</span>
 
-<span style="color: #072140;">**Heidelberg University**  
-1. Interdisciplinary Center for Scientific Computing (IWR)  
-2. Department of Mathematics and Computer Science  
-Im Neuenheimer Feld 205  
-69120 Heidelberg  
-Germany</span>
+<div style="color: #072140; text-align: left;">**Heidelberg University** <br>
+1. Interdisciplinary Center for Scientific Computing (IWR) <br>  
+2. Department of Mathematics and Computer Science <br> 
+Im Neuenheimer Feld 205 <br> 
+69120 Heidelberg <br> 
+Germany
+</div>
 
 <span style="color: #072140;"><strong>Email</strong>: <a href="mailto:zahra.monfared@iwr.uni-heidelberg.de" style="color: #114584;">zahra.monfared@iwr.uni-heidelberg.de</a></span>  
 <span style="color: #072140;"><strong>Office hours</strong>: By arrangement</span>
