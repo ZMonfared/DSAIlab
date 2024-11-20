@@ -10,8 +10,8 @@ tags:
 image: images/group-image-corner.jpg
 ---
 
-<div style="text-align: center;">
-  <img src="images/group-image-corner.jpg" alt="group image photo" style="width: 500px; height: auto;"/>
+<div>
+  <img src="images/group-image-corner.jpg" alt="group image photo" style="width: 500px; height: 500px;"/>
 </div>
 
 
