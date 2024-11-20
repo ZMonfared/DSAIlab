@@ -28,7 +28,7 @@ Germany</span>
 
 ### <span style="color: #114584;">Education</span>
 
-<div style="color: #072140;">
+<div style="color: #072140; text-align: left;">
 - BMBF Independent Research Group Leader in AI, Heidelberg University, Germany  
 - Ph.D. in Applied Mathematics (Dynamical Systems) - Ferdowsi University of Mashhad, Iran  
 - Post-Doctoral Researcher in Scientific Machine Learning - Heidelberg University, Germany  
