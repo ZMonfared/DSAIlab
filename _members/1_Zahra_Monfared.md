@@ -46,15 +46,15 @@ Germany</span>
 
 ### <span style="color: #114584;">Research Interests</span>
 
-<span style="color: #072140;">
-- Mathematics of AI 
-- scientific machine learning
-- Complex Dynamical Systems   
+<div style="color: #072140; text-align: left;">
+- Mathematics of AI <br>
+- scientific machine learning <br>
+- Complex Dynamical Systems  <br><br>
 - Koopman operator theory
 - Machine learning for numerical methods  
 - Neuroimaging and brain health analysis  
 - Applied geometry, topology and functional analysis  
-</span>
+</div>
 
 
 
