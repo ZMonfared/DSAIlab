@@ -67,18 +67,6 @@ University of Braunschweig, Germany.
 
 ### <span style="color: #114584;">Publications</span>
 
-<span style="color: #072140;">
-2024  
-- **Gradient-free training of recurrent neural networks** (arXiv:2405.08967)  
-- **Role of Parameterization in Learning Dynamics of RNNs** (NeurIPS OPT2024)  
-- **Almost-Linear RNNs Yield Symbolic Codes in Systems Reconstruction** (NeurIPS 2024)  
-
-2023  
-- **Generalized Teacher Forcing for Learning Chaotic Dynamics** (ICML 2023)  
-
-2022  
-- **On the Difficulty of Learning Chaotic Dynamics with RNNs** (NeurIPS 2022)  
-- **Tractable dendritic RNNs for reconstructing nonlinear dynamical systems** (ICML 2022)  
 
 - See [Google Scholar](https://scholar.google.pl/citations?user=OPUIwIoAAAAJ&hl=en) for the full list.
-</span>
+
