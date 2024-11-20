@@ -10,7 +10,7 @@ links:
 
 <span style="font-size: 2em; color: #072140;">Dr. Zahra Monfared</span>
 
----
+
 
 ### <span style="color: #114584;">Address</span>
 
@@ -24,7 +24,7 @@ Germany</span>
 <span style="color: #072140;"><strong>Email</strong>: <a href="mailto:zahra.monfared@iwr.uni-heidelberg.de" style="color: #114584;">zahra.monfared@iwr.uni-heidelberg.de</a></span>  
 <span style="color: #072140;"><strong>Office hours</strong>: By arrangement</span>
 
----
+
 
 ### <span style="color: #114584;">Education</span>
 
@@ -42,7 +42,7 @@ Germany</span>
 </div>
 
 
----
+
 
 ### <span style="color: #114584;">Research Interests</span>
 
