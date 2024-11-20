@@ -49,11 +49,11 @@ Germany</span>
 <div style="color: #072140; text-align: left;">
 - Mathematics of AI <br>
 - scientific machine learning <br>
-- Complex Dynamical Systems  <br><br>
-- Koopman operator theory
-- Machine learning for numerical methods  
-- Neuroimaging and brain health analysis  
-- Applied geometry, topology and functional analysis  
+- Complex Dynamical Systems  <br>
+- Koopman operator theory <br>
+- Machine learning for numerical methods <br>  
+- Neuroimaging and brain health analysis <br>
+- Applied geometry, topology and functional analysis <br>  
 </div>
 
 
