@@ -16,4 +16,3 @@ tags:
 </div>
 
 We are pleased to announce that our group will host **Ahmed Alshembari** from the **Technical University of Kaiserslautern** for a short research visit starting on November 25, 2024. We look forward to his contributions and collaboration.
----
