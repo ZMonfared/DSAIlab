@@ -56,7 +56,7 @@ Germany</span>
 - Applied geometry, topology and functional analysis  
 </span>
 
----
+
 
 ### <span style="color: #114584;">Honours and Awards</span>
 
@@ -70,7 +70,7 @@ University of Braunschweig, Germany.
 - Graduated with Honors in M.Sc. and B.Sc. programs  
 </span>
 
----
+
 
 ### <span style="color: #114584;">Publications</span>
 
