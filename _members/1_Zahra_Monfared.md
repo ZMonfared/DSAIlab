@@ -14,7 +14,7 @@ links:
 
 ### <span style="color: #114584;">Address</span>
 
-<div style="color: #072140; text-align: left;">**Heidelberg University** <br>
+<div style="color: #072140; text-align: left;">Heidelberg University <br>
 1. Interdisciplinary Center for Scientific Computing (IWR) <br>  
 2. Department of Mathematics and Computer Science <br> 
 Im Neuenheimer Feld 205 <br> 
