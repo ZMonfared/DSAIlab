@@ -66,7 +66,7 @@ Germany
 
 ### <span style="color: #114584;">Honours and Awards</span>
 
-<div style="color: #072140; text-align: left;">
+<div style="color: #072140; text-align: left; white-space: nowrap;">
 - BMBF Research Funding for establishing my independent research group (my own position, one Postdoc, 2 PhD positions and one research assistant)in the field of AI (2024–2027) <br>
 - NeurIPS Outstanding Reviewer Award, 2021 <br>
 - Research Visit Funding During Ph.D. Program. Institute for Analysis and Algebra, Technical University of Braunschweig, Germany. <br>
