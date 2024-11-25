@@ -15,16 +15,17 @@ Our group (started September 2024) is funded by the **Federal Ministry of Educat
 
 **We are mainly interested in two research directions**:
 
-### <span style="color: #072140; font-weight: bold;">**Mathematical Foundations of AI**.</span> 
+### <span style="color: #072140; font-weight: bold;">**Dynamical Systems of AI**.</span> 
 We aim to develop a mathematical foundation for understanding the design, training, and operation of deep learning models, particularly Recurrent Neural Networks (RNNs), which are effective neural architectures for time series analysis, forecasting, and modeling dynamical systems. We integrate dynamical systems theory, specifically Koopman operator theory, into the field of AI to establish a rigorous framework for creating novel, theoretically motivated AI algorithms and architectures for interpretable data-driven modeling of complex dynamical systems. 
 
-### <span style="color: #072140; font-weight: bold;">**AI for Solving Mathematical Problems**.</span> 
+### <span style="color: #072140; font-weight: bold;">**AI for Dynamical Systems Problems**.</span> 
 There has been a substantial paradigm shift in the field of mathematics, particularly in applied mathematics, due to the utilization of AI techniques. In this context, we use neural networks to analyze and develop numerical algorithms for approximating solutions to Partial Differential Equations (PDEs) through machine learning approaches. We will also examine some mathematical inverse problems, such as determining governing differential equations from given datasets with such techniques.
 
 
 
-### <span style="color: #072140; font-weight: bold;">**Other directions**</span>
-Our group also focuses on advancing AI techniques for neuroimaging analysis by developing deep learning frameworks that combine multiple modalities of brain imaging data. By integrating structural imaging (such as MRI) and functional imaging (such as fMRI or EEG), we aim to gain a comprehensive view of brain health. This integrative approach helps in identifying subtle patterns in brain structure and activity associated with neurodegenerative diseases, such as Alzheimer’s and Parkinson’s. Additionally, it enables us to understand the dynamic processes underlying cognitive functions and brain disorders. Our goal is to improve early diagnostic accuracy and contribute to the development of personalized monitoring tools for tracking disease progression, which may eventually aid in creating targeted therapeutic strategies.
+### <span style="color: #072140; font-weight: bold;">**Our Focuses on AI Techniques for Neuroimaging Analysis**</span>
+
+**Other Directions:** Our group also focuses on advancing AI techniques for neuroimaging analysis by developing deep learning frameworks that combine multiple modalities of brain imaging data. By integrating structural imaging (such as MRI) and functional imaging (such as fMRI or EEG), we aim to gain a comprehensive view of brain health. This integrative approach helps in identifying subtle patterns in brain structure and activity associated with neurodegenerative diseases, such as Alzheimer’s and Parkinson’s. Additionally, it enables us to understand the dynamic processes underlying cognitive functions and brain disorders. Our goal is to improve early diagnostic accuracy and contribute to the development of personalized monitoring tools for tracking disease progression, which may eventually aid in creating targeted therapeutic strategies.
 
 ## <span style="color: #114584; font-weight: bold; font-size: 1.5em;">Applications</span>
 
