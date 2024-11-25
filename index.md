@@ -15,10 +15,10 @@ Our group (started September 2024) is funded by the **Federal Ministry of Educat
 
 **We are mainly interested in two research directions**:
 
-### <span style="color: #072140; font-weight: bold;">**Dynamical Systems of AI**.</span> 
+### <span style="color: #072140; font-weight: bold;">**Dynamical Systems of AI** </span> 
 We aim to develop a mathematical foundation for understanding the design, training, and operation of deep learning models, particularly Recurrent Neural Networks (RNNs), which are effective neural architectures for time series analysis, forecasting, and modeling dynamical systems. We integrate dynamical systems theory, specifically Koopman operator theory, into the field of AI to establish a rigorous framework for creating novel, theoretically motivated AI algorithms and architectures for interpretable data-driven modeling of complex dynamical systems. 
 
-### <span style="color: #072140; font-weight: bold;">**AI for Dynamical Systems Problems**.</span> 
+### <span style="color: #072140; font-weight: bold;">**AI for Dynamical Systems Problems** </span> 
 There has been a substantial paradigm shift in the field of mathematics, particularly in applied mathematics, due to the utilization of AI techniques. In this context, we use neural networks to analyze and develop numerical algorithms for approximating solutions to Partial Differential Equations (PDEs) through machine learning approaches. We will also examine some mathematical inverse problems, such as determining governing differential equations from given datasets with such techniques.
 
 
