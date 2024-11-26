@@ -1,6 +1,6 @@
 ---
 title: Upcoming Research Visit
-image: images/new-position-image1.png
+image: 
 author: Zahra Monfared
 tags:
   - machine learning
