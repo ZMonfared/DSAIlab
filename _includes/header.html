@@ -9,11 +9,11 @@
 <header
   class="background"
   style="background-image: url('{{ image }}');
-         background-size: cover; /* Ensures the image covers the whole banner */
-         background-position: center; /* Centers the image */
-         background-repeat: no-repeat; /* Prevents tiling */
-         height: 400px; /* Adjust the height of the banner as needed */
-         width: 100%; /* Ensures the banner spans the entire page width */"
+         background-size: contain;
+         background-position: center;
+         background-repeat: no-repeat;
+         height: 1080px;
+         width: 100%;"
   {% if dark == true or dark == false %}
     data-dark="{{ dark }}"
   {% endif %}
