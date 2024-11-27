@@ -8,7 +8,12 @@
 
 <header
   class="background"
-  style="--image: url('{{ image }}')"
+  style="background-image: url('{{ image }}');
+         background-size: cover; /* Ensures the image covers the whole banner */
+         background-position: center; /* Centers the image */
+         background-repeat: no-repeat; /* Prevents tiling */
+         height: 400px; /* Adjust the height of the banner as needed */
+         width: 100%; /* Ensures the banner spans the entire page width */"
   {% if dark == true or dark == false %}
     data-dark="{{ dark }}"
   {% endif %}
@@ -16,6 +21,7 @@
     data-big
   {% endif %}
 >
+
 
 
   <a href="{{ "/" | relative_url }}" class="home">
