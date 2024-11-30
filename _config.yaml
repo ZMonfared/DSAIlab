@@ -3,7 +3,7 @@ title: DSAI
 subtitle: Dynamical Systems and Artificial Intelligence
 description: Developing mathematically grounded AI methods to model complex dynamical systems and solve mathematical problems.
 header: images/banner-image-resized.jpg
-footer: images/banner-image.jpg
+footer: images/banner-image-resized.jpg
 # proofer: false
 
 # site social media and other links
@@ -11,7 +11,7 @@ links:
   email: zahra.monfared@iwr.uni-heidelberg.de | zahra.monfared@tum.de
   orcid: 0049-0629-8713-9213
   google-scholar: https://scholar.google.pl/citations?user=OPUIwIoAAAAJ&hl=en
-  github: MathofAI
+  github: https://github.com/ZMonfared/DSAIlab
   twitter: Zahra__Monfared
   youtube: 
 
