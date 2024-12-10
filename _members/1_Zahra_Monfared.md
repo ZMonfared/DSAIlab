@@ -26,7 +26,7 @@ Germany
 
 
 
-### <span style="color: #114584; text-align: left;">Education</span>
+### <span style="color: #114584;">Education</span>
 
 
 - **Independent BMBF Research Group Leader** in AI, Heidelberg University, Germany.
