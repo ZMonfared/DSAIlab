@@ -23,7 +23,7 @@ There has been a substantial paradigm shift in the field of mathematics, particu
 
 
 
-### <span style="color: #072140;">**Our group also focuses on advancing AI techniques for neuroimaging analysis:**</span>
+**Our group also focuses on advancing AI techniques for neuroimaging analysis:**
 
 **Neuroimaging analysis:** We advance AI techniques for neuroimaging analysis by developing deep learning frameworks that combine multiple modalities of brain imaging data. By integrating structural imaging (such as MRI) and functional imaging (such as fMRI or EEG), we aim to gain a comprehensive view of brain health. This integrative approach helps in identifying subtle patterns in brain structure and activity associated with neurodegenerative diseases, such as Alzheimer’s and Parkinson’s. Additionally, it enables us to understand the dynamic processes underlying cognitive functions and brain disorders. Our goal is to improve early diagnostic accuracy and contribute to the development of personalized monitoring tools for tracking disease progression, which may eventually aid in creating targeted therapeutic strategies.
 
