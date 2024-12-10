@@ -25,7 +25,7 @@ Germany
 <span style="color: #072140;"><strong>Office hours</strong>: By arrangement</span>
 
 
-### <span style="color: #114584;">Education</span>
+### <span style="color: #114584; text-align: left;">Education</span>
 
 
 - Independent BMBF Research Group Leader in AI, Heidelberg University, Germany.
