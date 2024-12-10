@@ -29,7 +29,7 @@ Germany
 ### <span style="color: #114584;">Education</span>
 
 <div style="color: #072140; text-align: left;">
-- Independent BMBF Research Group Leader in AI, Heidelberg University, Germany. 
+**-** Independent BMBF Research Group Leader in AI, Heidelberg University, Germany. 
 </div>
 <div style="color: #072140; text-align: left;">
 - Post-Doctoral Researcher in Physics-Enhanced Machine Learning. Dept. of Computer Science, TUM School of CIT, Technical University of Munich, Germany.
