@@ -27,19 +27,13 @@ Germany
 
 ### <span style="color: #114584; text-align: left;">Education</span>
 
-
 - Independent BMBF Research Group Leader in AI, Heidelberg University, Germany.
-
 - Post-Doctoral Researcher in Physics-Enhanced Machine Learning. Dept. of Computer Science, TUM School of CIT, Technical University of Munich, Germany.
-
 - Post-Doctoral Researcher in Scientific Machine Learning & Computational Neuroscience, Dept. of Theoretical Neuroscience, CIMH, Medical Faculty Mannheim, 
   Heidelberg University, Germany.
-
 - Post-Doctoral Researcher in Scientific Machine Learning, Dept. of Mathematics & Informatics and Cluster of Excellence STRUCTURES, Heidelberg University, 
   Germany.
-
 - Ph.D. in Applied Mathematics (Dynamical Systems) - Ferdowsi University of Mashhad, Iran.
-
 - M.Sc. in Pure Mathematics (Geometry and Differential Equations) - Ferdowsi University of Mashhad, Iran.
 
 
