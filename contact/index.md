@@ -31,7 +31,10 @@ Welcome! If you would like to reach out, please use the contact information belo
   include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
-  text="Dept. of Mathematics and Computer Science, IWR, Heidelberg University, Heidelberg, Germany"
+  text="Interdisciplinary Center for Scientific Computing (IWR), Heidelberg
+  Im Neuenheimer Feld 205 - MΛTHEMΛTIKON A, Second floor, Room: 2/308
+  69120 Heidelberg
+  Germany"
   link="https://goo.gl/maps/HeidelbergUniversity"
 %}
 {%
