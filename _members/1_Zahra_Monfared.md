@@ -24,7 +24,7 @@ Germany
 <span style="color: #072140;"><strong>Office hours</strong>: By arrangement</span>
 
 
-### <span style="color: #114584;">"About me"</span>
+### <span style="color: #114584;">About me</span>
 
 <div style="color: #072140; text-align: left;">
 I am an independent BMBF Research Group Leader in AI at Heidelberg University, Germany, with a strong academic background in applied mathematics and machine learning. My research focuses on the Mathematics of AI, Scientific Machine Learning, and Complex Dynamical Systems, with applications in brain health analysis and numerical methods. I hold a Ph.D. in Applied Mathematics and have worked as a postdoctoral researcher at prestigious institutions such as the Technical University of Munich and Heidelberg University. I have published extensively in top-tier conferences and journals like NeurIPS and ICML, and my contributions to the field have earned recognition, including the NeurIPS Outstanding Reviewer Award and BMBF research funding for establishing my independent group. My interdisciplinary approach bridges mathematics, AI, and neuroscience, advancing knowledge in fundamental and applied research domains.
