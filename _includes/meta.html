@@ -28,9 +28,9 @@
   {{ site.url }}{{ site.baseurl }}
 {%- endcapture %}
 
-{% assign png = "images/icon.png" | file_exists %}
-{% assign jpg = "images/icon.jpg" | file_exists %}
-{% assign icon = png | default: jpg | relative_url %}
+{% assign svg = "images/Logo.svg" | file_exists %}
+{% assign jpg = "images/Logo.jpg" | file_exists %}
+{% assign icon = svg | default: jpg | relative_url %}
 
 {% assign jpg = "images/share.jpg" | file_exists %}
 {% assign png = "images/share.png" | file_exists %}
