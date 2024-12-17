@@ -1,9 +1,9 @@
 {% assign image = page.header | default: site.header | relative_url %}
 {% assign dark = page.header-dark | is_nil: site.header-dark | is_nil: true %}
 
-{% assign svg = "images/Logo.svg" | file_exists %}
-{% assign png = "images/logo.png" | file_exists %}
-{% assign jpg = "images/logo.jpg" | file_exists %}
+{% assign svg = "images/LoGo.svg" | file_exists %}
+{% assign png = "images/LoGo.png" | file_exists %}
+{% assign jpg = "images/LoGo.jpg" | file_exists %}
 {% assign logo = svg | default: png | default: jpg | default: nil %}
 
 <header
@@ -22,8 +22,8 @@
 
 
   <a href="{{ "/" | relative_url }}" class="home">
-    {% if logo %}
-      <span class="logo">
+    {% if LoGo %}
+      <span class="LoGo">
         {% if svg %}
           {{ svg | file_read }}
         {% else %}
