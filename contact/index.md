@@ -24,8 +24,8 @@ Welcome! If you would like to reach out, please use the contact information belo
 {%
   include button.html
   type="phone"
-  text="+49 163 9176271"
-  link="tel:+491639176271"
+  text="+49 6221 5414507"
+  link="tel:+4962215414507"
 %}
 {%
   include button.html
