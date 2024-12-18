@@ -50,21 +50,22 @@ I am an independent BMBF Research Group Leader in Applied Mathematics and AI at 
 ### <span style="color: #114584;">Research Interests</span>
 
 <div style="color: #072140; text-align: left;">
-- Mathematics of AI <br>
-- Scientific Machine learning <br>
+- Mathematical Foundations of AI <br>
+- Scientific Machine Learning <br>
 - Complex Dynamical Systems  <br>
 - Koopman Operator Theory <br>
 - Machine Learning for Numerical Methods <br>  
 - Neuroimaging and Brain Health Analysis <br>
-- Applied Geometry, Topology and Functional Analysis <br>  
+- Applied Geometry and Topology <br> 
+- Functional Analysis <br>  
 </div>
 
 
 
-### <span style="color: #114584;">Honours and Awards</span>
+### <span style="color: #114584;">Honors and Awards</span>
 
 <div style="color: #072140; text-align: left;">
-- BMBF Research Funding for establishing my independent research group (my own position, one Postdoc, 2 PhD positions and one research assistant)in the field of AI (2024–2027) <br>
+- BMBF Research Funding for establishing my independent research group (my own position, one Postdoc, 2 PhD positions, and one research assistant) in the field of AI (2024–2027) <br>
 - NeurIPS Outstanding Reviewer Award, 2021 <br>
 - Research Visit Funding During Ph.D. Program. Institute for Analysis and Algebra, Technical University of Braunschweig, Germany. <br>
 - Ranked 1st in Ph.D. program with highest GPA <br>  
