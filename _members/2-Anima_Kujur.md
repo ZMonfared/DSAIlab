@@ -6,7 +6,7 @@ group: alum
 links:
   researchgate: https://www.researchgate.net/profile/Anima-Kujur
   orcid: https://orcid.org/0000-0002-6300-2279
-  googlescholar: https://scholar.google.com/citations?hl=en&user=VbSnkz0AAAAJ
+  googlescholar: scholar.google.com/citations?hl=en&user=VbSnkz0AAAAJ
   linkedin: https://www.linkedin.com/in/dr-anima-kujur-584325171/
 ---
 
