@@ -4,10 +4,10 @@ image: images/anima_photo.jpg
 role: postdoc
 group: alum
 links:
-  researchgate: https://www.researchgate.net/profile/Anima-Kujur
-  orcid: https://orcid.org/0000-0002-6300-2279
+  researchgate: researchgate.net/profile/Anima-Kujur
+  orcid: orcid.org/0000-0002-6300-2279
   googlescholar: scholar.google.com/citations?hl=en&user=VbSnkz0AAAAJ
-  linkedin: https://www.linkedin.com/in/dr-anima-kujur-584325171/
+  linkedin: linkedin.com/in/dr-anima-kujur-584325171/
 ---
 
 # About Me
