@@ -5,7 +5,7 @@
 
 ## <span style="font-weight: bold; font-size: 1em;">Welcome!</span> 
 
-Our group (started September 2024) is funded by the **Federal Ministry of Education and Research (BMBF)** through project OIDLITDSM in the field of AI. It is located at the **Interdisciplinary Center for Scientific Computing (IWR)**, Heidelberg University.
+Our group (started September 2024) is funded by the **Federal Ministry of Education and Research (BMBF)** through project OIDLITDSM in the field of AI. It is located at the **Interdisciplinary Center for Scientific Computing (IWR)**, Heidelberg University. We are also affiliated with the Faculty of Mathematics and Computer Science at Heidelberg University.
 
 <div style="text-align: center;">
   <img src="images/Pic_BMBF_Up4.png" alt="team photo" style="width: 65%; height: 400px;;"/>
