@@ -27,11 +27,11 @@ Germany
 ### <span style="color: #114584;">About me</span>
 
 <div style="color: #072140; text-align: left;">
-I am an independent BMBF Research Group Leader in Applied Mathematics and AI at Heidelberg University. Before that, I was a postdoc at the Technical University of Munich in Physics-Enhanced Machine Learning and at Heidelberg University in Scientific Machine Learning and Computational Neuroscience. I obtained a PhD in Applied Mathematics (Dynamical Systems). I am interested in the Mathematical foundations of AI, Scientific Machine Learning, and Complex Dynamical Systems, with applications in neuroscience, weather/climate, engineering, and economics. Specifically, my work mainly focuses on two research directions: 1) Dynamical Systems for AI; and 2) AI for Dynamical Systems. I was awarded BMBF research funding for establishing my independent group in 2024 and the NeurIPS Outstanding Reviewer Award in 2021.
+I am an independent BMBF Research Group Leader in Dynamical Systems and AI at Heidelberg University. Before that, I was a postdoc at the Technical University of Munich in Physics-Enhanced Machine Learning and at Heidelberg University in Scientific Machine Learning and Computational Neuroscience. I obtained a PhD in Applied Mathematics (Dynamical Systems) and an M.Sc. in Pure Mathematics (Geometry and Differential Equations). I am interested in the mathematical foundations of AI, Scientific Machine Learning, and Complex Dynamical Systems, with applications in neuroscience, weather and climate, engineering, and economics. Specifically, my work mainly focuses on two research directions: 1) Dynamical Systems for AI; and 2) AI for Dynamical Systems. I was awarded BMBF research funding to establish my independent research group in 2024 and the NeurIPS Outstanding Reviewer Award in 2021.
 </div>
 
 
-### <span style="color: #114584;">Education</span>
+### <span style="color: #114584;">Education and Academic Positions</span>
 
 <div style="color: #072140; text-align: left;">
 - Independent BMBF Research Group Leader in AI, Heidelberg University, Germany.<br> 
