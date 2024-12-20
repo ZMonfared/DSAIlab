@@ -1,6 +1,6 @@
 ---
 name: Zahra Monfared
-image: images/Zahra-web-image.jpg
+image: images/zahra-last_edit.jpg
 role: research-group-leader
 links:
   home-page: https://scholar.google.pl/citations?user=OPUIwIoAAAAJ&hl=en
