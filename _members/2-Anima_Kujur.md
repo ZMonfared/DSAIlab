@@ -4,10 +4,10 @@ image: images/anima-website-image.jpg
 role: postdoc
 group: alum
 links:
+  google-scholar: citations?user=VbSnkz0AAAAJ&hl=en&oi=ao
   research-gate: profile/Anima-Kujur
   orcid: orcid.org/0000-0002-6300-2279
-  google-scholar: citations?user=VbSnkz0AAAAJ&hl=en&oi=ao
-  linkedin: dr-anima-kujur-584325171/
+    linkedin: dr-anima-kujur-584325171/
   email: anima.kujur@iwr.uni-heidelberg.de
 ---
 
@@ -15,8 +15,9 @@ links:
 
 I am Dr. Anima Kujur, a postdoctoral researcher at the Interdisciplinary Centre for Scientific Computing, Heidelberg University, Germany. With a Ph.D. in Computer Science and Technology from Jawaharlal Nehru University (JNU), New Delhi, India, and dual master’s degrees in Applied Mathematics (University of Hyderabad) and Computer Science (JNU), I am deeply committed to advancing research in medical imaging, dynamical systems, and deep learning. My career reflects a strong interdisciplinary approach, bridging computational mathematics and artificial intelligence to solve critical problems in healthcare and beyond.
 
-
 <br>
+<br>
+<be>
 <br>
 ## Research Interests
 
