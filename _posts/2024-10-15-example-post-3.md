@@ -3,12 +3,6 @@ title: Upcoming Research Visit
 image: images/ahmad-image.png
 author: Zahra Monfared
 tags:
-  - machine learning
-  - RNN
-  - PhD Position
-  - Time Series Analysis
-  - AI
-  - Dynamical Systems
 ---
 
 <div>
