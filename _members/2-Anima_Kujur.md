@@ -7,7 +7,7 @@ links:
   google-scholar: citations?user=VbSnkz0AAAAJ&hl=en&oi=ao
   research-gate: profile/Anima-Kujur
   orcid: orcid.org/0000-0002-6300-2279
-    linkedin: dr-anima-kujur-584325171/
+  linkedin: dr-anima-kujur-584325171/
   email: anima.kujur@iwr.uni-heidelberg.de
 ---
 
