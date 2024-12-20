@@ -5,7 +5,6 @@ role: postdoc
 group: alum
 links:
   google-scholar: citations?user=VbSnkz0AAAAJ&hl=en&oi=ao
-  research-gate: profile/Anima-Kujur
   orcid: orcid.org/0000-0002-6300-2279
   linkedin: dr-anima-kujur-584325171/
   email: anima.kujur@iwr.uni-heidelberg.de
@@ -17,8 +16,9 @@ I am Dr. Anima Kujur, a postdoctoral researcher at the Interdisciplinary Centre 
 
 <br>
 <br>
-<be>
 <br>
+<be>
+
 ## Research Interests
 
 - **Deep Learning and AI Applications:** Developing models for medical image segmentation and classification.  
