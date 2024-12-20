@@ -31,10 +31,7 @@ Welcome! If you would like to reach out, please use the contact information belo
   include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
-  text="Interdisciplinary Center for Scientific Computing (IWR), Heidelberg
-  Im Neuenheimer Feld 205 - MΛTHEMΛTIKON A, Second floor, Room: 2/308
-  69120 Heidelberg
-  Germany"
+  text="Interdisciplinary Center for Scientific Computing (IWR),Heidelberg University, Germany"
   link="https://goo.gl/maps/HeidelbergUniversity"
 %}
 {%
@@ -51,7 +48,7 @@ Welcome! If you would like to reach out, please use the contact information belo
 - **Email**: [zahra.monfared@iwr.uni-heidelberg.de](mailto:zahra.monfared@iwr.uni-heidelberg.de)  
 - **Alternate Email**: [zahra.monfared@tum.de](mailto:zahra.monfared@tum.de)  
 - **Phone**: [+49 6221 5414507](tel:+4962215414507)  
-- **Location**: Dept. of Mathematics and Computer Science, IWR, Heidelberg University, Heidelberg, Germany  
+- **Location**: 2nd Floor, Room: 2/308, Im Neuenheimer Feld 205 - MΛTHEMΛTIKON A, 69120 Heidelberg 
 - **Google Scholar**: [Link to Profile](https://scholar.google.pl/citations?user=OPUIwIoAAAAJ&hl=en)
 {% endcapture %}
 
