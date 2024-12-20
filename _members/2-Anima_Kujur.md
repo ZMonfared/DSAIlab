@@ -9,15 +9,27 @@ links:
   orcid: orcid.org/0000-0002-6300-2279
   email: anima.kujur@iwr.uni-heidelberg.de
 ---
+<span style="font-size: 2em; color: #072140;">Dr. Anima Kujur</span>
+
+
+### <span style="color: #114584;">Address</span>
+
+<div style="color: #072140; text-align: left;"> <br>
+Interdisciplinary Center for Scientific Computing (IWR), Heidelberg <br>  
+Im Neuenheimer Feld 205 - MΛTHEMΛTIKON A, Second floor, Room: 2/328<br> 
+69120 Heidelberg <br> 
+Germany
+</div>
+
+<span style="color: #072140;"><strong>Email</strong>: <a href="mailto:zahra.monfared@iwr.uni-heidelberg.de" style="color: #114584;">anima.kujur@iwr.uni-heidelberg.de</a></span>  
+<span style="color: #072140;"><strong>Office hours</strong>: By arrangement</span>
+
 
 # About Me
 
 I am Dr. Anima Kujur, a postdoctoral researcher at the Interdisciplinary Centre for Scientific Computing, Heidelberg University, Germany. With a Ph.D. in Computer Science and Technology from Jawaharlal Nehru University (JNU), New Delhi, India, and dual master’s degrees in Applied Mathematics (University of Hyderabad) and Computer Science (JNU), I am deeply committed to advancing research in medical imaging, dynamical systems, and deep learning. My career reflects a strong interdisciplinary approach, bridging computational mathematics and artificial intelligence to solve critical problems in healthcare and beyond.
 
-<br>
-<br>
-<br>
-<br>
+
 
 ## Research Interests
 
