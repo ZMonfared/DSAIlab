@@ -8,6 +8,7 @@ links:
   orcid: orcid.org/0000-0002-6300-2279
   google-scholar: citations?user=VbSnkz0AAAAJ&hl=en&oi=ao
   linkedin: dr-anima-kujur-584325171/
+  email: anima.kujur@iwr.uni-heidelberg.de
 ---
 
 # About Me
@@ -30,8 +31,8 @@ I am Dr. Anima Kujur, a postdoctoral researcher at the Interdisciplinary Centre 
 ### Research Articles
 - Data Complexity-Based Evaluation of Brain MRI Classification Models. *IEEE Access*, 2022.  
 - Performance Analysis of 3D Brain MRI Modalities Using U-Net. *International Journal of Electronic Healthcare*, Inderscience, 2023.  
-- DUNET: Dilated U-Net for Brain Tumor Sub-Region Segmentation. *Defence Life Science Journal*, 2024, Vol. 9, No. 3, pp. 1-8, DOI: 10.14429/dlsj.9.19183  
-- Ability of Machine Learning and Deep Learning Models for Multiclass Classification of Kidney Stone and Lung Cancer from Computed Tomography Images: A Comparative Study. *Defence Life Science Journal*, 2025, Vol. 10, No. 1, pp. 1-8, DOI: 10.14429/dlsj.19188  
+- DUNET: Dilated U-Net for Brain Tumor Sub-Region Segmentation. *Defence Life Science Journal*, 2024.
+- Ability of Machine Learning and Deep Learning Models for Multiclass Classification of Kidney Stone and Lung Cancer from Computed Tomography Images: A Comparative Study. *Defence Life Science Journal*, 2025.  
 - AbED-Net: Radiological Image Segmentation for Medical Diagnosis. *Neural Computing and Applications* (Under Review).  
 
 ### Conference Articles
