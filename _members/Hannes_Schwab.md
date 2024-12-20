@@ -1,13 +1,9 @@
 ---
 name: Hannes Schwab
-image: images/anima-website-image.jpg
+image: images/Hannes.jpeg
 role: phd
 group: alum
 links:
-  google-scholar: 
-  linkedin: 
-  orcid: 
-  email: 
 ---
 <span style="font-size: 2em; color: #072140;">Hannes Schwab</span>
 
@@ -21,7 +17,7 @@ Im Neuenheimer Feld 205 - MΛTHEMΛTIKON A, Second floor, Room: 2/328<br>
 Germany
 </div>
 
-<span style="color: #072140;"><strong>Email</strong>: <a href="mailto:zahra.monfared@iwr.uni-heidelberg.de" style="color: #114584;">anima.kujur@iwr.uni-heidelberg.de</a></span>  
+<span style="color: #072140;"><strong>Email</strong>: <a href="mailto:zahra.monfared@iwr.uni-heidelberg.de" style="color: #114584;">hannes.schwab@iwr.uni-heidelberg.de</a></span>  
 <span style="color: #072140;"><strong>Office hours</strong>: By arrangement</span>
 
 <br>
