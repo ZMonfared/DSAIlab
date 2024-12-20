@@ -1,6 +1,6 @@
 ---
 name: Anima Kujur
-image: images/anima_photo.jpg
+image: images/anima-website-image.jpg
 role: postdoc
 group: alum
 links:
