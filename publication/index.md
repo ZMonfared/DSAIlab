@@ -4,7 +4,8 @@ nav:
   order: 3
   tooltip: About our Publications
 ---
-# {% include icon.html icon="fa-solid fa-microscope" style="color: #114584;" %}Publications
+<span style="color: #072140;">**Publications** </span>
+
 
 <span style="color: #072140;"> </span>
 
