@@ -26,8 +26,6 @@ Germany
 
 <br>
 <br>
-<br>
-<br>
 # About Me
 
 I am Dr. Anima Kujur, a postdoctoral researcher at the Interdisciplinary Centre for Scientific Computing, Heidelberg University, Germany. With a Ph.D. in Computer Science and Technology from Jawaharlal Nehru University (JNU), New Delhi, India, and dual master’s degrees in Applied Mathematics (University of Hyderabad) and Computer Science (JNU), I am deeply committed to advancing research in medical imaging, dynamical systems, and deep learning. My career reflects a strong interdisciplinary approach, bridging computational mathematics and artificial intelligence to solve critical problems in healthcare and beyond.
