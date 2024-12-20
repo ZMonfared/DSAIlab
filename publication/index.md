@@ -4,7 +4,7 @@ nav:
   order: 3
   tooltip: About our Publications
 ---
-<span style="color: #072140;">**Publications** </span>
+# {% include icon.html icon=" " style="color: #114584;" %}Publications
 
 
 <span style="color: #072140;"> </span>
