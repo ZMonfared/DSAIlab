@@ -6,17 +6,17 @@
 {% assign jpg = "images/Logo2.jpg" | file_exists %}
 {% assign logo = svg | default: png | default: jpg | default: nil %}
 
+
 <header
   class="background"
-  style="--image: url('{{ image }}')"
+  {% if page.url == "/" %}
+    style="--image: url('{{ image }}')"
+    data-big
+  {% endif %}
   {% if dark == true or dark == false %}
     data-dark="{{ dark }}"
   {% endif %}
-  {% if page.url == "/" %}
-    data-big
-  {% endif %}
 >
-
 
 
 
