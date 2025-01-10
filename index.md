@@ -3,7 +3,7 @@
 
 # <span style="color: #114584; font-weight: bold; font-size: 1.5em;">Dynamical Systems and AI Website</span>
 
-## <span style="font-weight: bold; font-size: 1em;">Welcomee!</span> 
+## <span style="font-weight: bold; font-size: 1em;">Welcomee!!</span> 
 
 Our group (started September 2024) is funded by the **Federal Ministry of Education and Research (BMBF)** through the project OIDLITDSM in the field of AI. It is located at the **Interdisciplinary Center for Scientific Computing (IWR)**, Heidelberg University. We are also affiliated with the Faculty of Mathematics and Computer Science at Heidelberg University.
 
