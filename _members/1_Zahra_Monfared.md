@@ -14,7 +14,7 @@ links:
 ### <span style="color: #114584;">Address</span>
 
 <div style="color: #072140; text-align: left;"> <br>
-Interdisciplinary Center for Scientific Computing (IWR), Heidelberg <br>  
+Interdisciplinary Center for Scientific Computing (IWR), Heidelberg University <br>  
 Im Neuenheimer Feld 205 - MΛTHEMΛTIKON A, Second floor, Room: 2/308<br> 
 69120 Heidelberg <br> 
 Germany
