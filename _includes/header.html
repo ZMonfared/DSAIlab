@@ -12,10 +12,12 @@
   {% if page.url == "/" %}
     style="--image: url('{{ image }}');"
     data-big
+  {% if dark == true or dark == false %}
+    data-dark="{{ dark }}"
+  {% endif %}
   {% else %}
     style="background-color: #b0b0b0;" <!-- Adjust the gray color as needed -->
-  {% endif %}
-  
+  {% endif %}  
 >
 
 
