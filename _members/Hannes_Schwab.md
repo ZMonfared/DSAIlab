@@ -24,7 +24,7 @@ Germany
 <br>
 # About Me
 
-I am a mathematics PhD student with a specialization in differential geometry and differential equations, and I am working on the theoretical aspects of machine learning for dynamical systems
+I am a mathematics PhD student with a specialisation in differential geometry and differential equations, and I am working on the theoretical aspects of machine learning for both dynamical systems and partial differential equations.
 
 
 
