@@ -33,9 +33,9 @@ I am currently a Research Assistant in the Mathematics and Artificial Intelligen
 
 ## Academic Background
 
-**M.Sc. in Mathematics International**  - Modeling and Scientific Computing Rheinland-Pfälzische Technische Universität Kaiserslautern-Landau (RPTU),Germany.<br> 
-**M.Sc. in Theoretical Mathematics**   IUGAZA university, Palestine.<br> 
-**B.Sc. in Mathematics Education**  IUGAZA university, Palestine.<br> 
+- **M.Sc. in Mathematics International**  - Modeling and Scientific Computing Rheinland-Pfälzische Technische Universität Kaiserslautern-Landau (RPTU),Germany.<br> 
+- **M.Sc. in Theoretical Mathematics**   IUGAZA university, Palestine.<br> 
+- **B.Sc. in Mathematics Education**  IUGAZA university, Palestine.<br> 
 
 
 ## Research Interests
