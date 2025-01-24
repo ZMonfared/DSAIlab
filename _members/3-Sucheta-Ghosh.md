@@ -26,26 +26,26 @@ Germany
 
 <br>
 <br>
-# About Me
+### About Me
 
 
 
-## Research Interests
+### Research Interests
 
 
-## Publications
+### Publications
 
 ### Research Articles
 
 ### Conference Articles
 
-## Awards and Fellowships
+### Awards and Fellowships
 
 
-## Internships and Collaborations
+### Internships and Collaborations
 
 
-## Other Experiences
+### Other Experiences
 
 
 ---
