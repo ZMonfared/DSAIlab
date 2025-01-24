@@ -33,17 +33,17 @@ I am currently a Research Assistant in the Mathematics and Artificial Intelligen
 
 ## Academic Background
 
-**M.Sc. in Mathematics International**  - Modeling and Scientific Computing Rheinland-Pfälzische Technische Universität Kaiserslautern-Landau (RPTU),Germany.
-**M.Sc. in Theoretical Mathematics**   IUGAZA university, Palestine.
-**B.Sc. in Mathematics Education**  IUGAZA university, Palestine.
+**M.Sc. in Mathematics International**  - Modeling and Scientific Computing Rheinland-Pfälzische Technische Universität Kaiserslautern-Landau (RPTU),Germany.<br> 
+**M.Sc. in Theoretical Mathematics**   IUGAZA university, Palestine.<br> 
+**B.Sc. in Mathematics Education**  IUGAZA university, Palestine.<br> 
 
 
 ## Research Interests
 
- Deep learning for medical imaging
- Mathematical Modeling
- Statistical Mathematics
- Dynamical Systems
+ Deep learning for medical imaging<br> 
+ Mathematical Modeling<br> 
+ Statistical Mathematics<br> 
+ Dynamical Systems<br> 
 
 ## Publications
 - See [Google Scholar](https://scholar.google.com/citations?hl=en&amp;user=ydkAuIwAAAAJ) for the full list.
