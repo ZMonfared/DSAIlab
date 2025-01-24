@@ -1,6 +1,6 @@
 ---
 name: Ahmed Alshembari
-image: images/images/ahmad-image.png
+image: images/ahmad-image.png
 role: ra
 group: alum
 links:
@@ -21,7 +21,7 @@ Im Neuenheimer Feld 205 - MΛTHEMΛTIKON A, Second floor, Room: 2/328<br>
 Germany
 </div>
 
-<span style="color: #072140;"><strong>Email</strong>: <a href="mailto:zahra.monfared@iwr.uni-heidelberg.de" style="color: #114584;">anima.kujur@iwr.uni-heidelberg.de</a></span>  
+<span style="color: #072140;"><strong>Email</strong>: <a href="mailto:ahmed.alshembari@iwr.uni-heidelberg.de" style="color: #114584;">ahmed.alshembari@iwr.uni-heidelberg.de</a></span>  
 <span style="color: #072140;"><strong>Office hours</strong>: By arrangement</span>
 
 <br>
