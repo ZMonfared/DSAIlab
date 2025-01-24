@@ -40,10 +40,10 @@ I am currently a Research Assistant in the Mathematics and Artificial Intelligen
 
 ## Research Interests
 
- Deep learning for medical imaging<br> 
- Mathematical Modeling<br> 
- Statistical Mathematics<br> 
- Dynamical Systems<br> 
+- Deep learning for medical imaging<br> 
+- Mathematical Modeling<br> 
+- Statistical Mathematics<br> 
+- Dynamical Systems<br> 
 
 ## Publications
 - See [Google Scholar](https://scholar.google.com/citations?hl=en&amp;user=ydkAuIwAAAAJ) for the full list.
