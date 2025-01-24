@@ -12,7 +12,7 @@ links:
 <span style="font-size: 2em; color: #072140;">Dr. Sucheta Ghosh</span>
 
 
-### <span style="color: #114584;">Address</span>
+## <span style="color: #114584;">Address</span>
 
 <div style="color: #072140; text-align: left;"> <br>
 Interdisciplinary Center for Scientific Computing (IWR), Heidelberg <br>  
@@ -26,26 +26,26 @@ Germany
 
 <br>
 <br>
-### About Me
+## About Me
 
 
 
-### Research Interests
+## Research Interests
 
 
-### Publications
+## Publications
 
-### Research Articles
+## Research Articles
 
-### Conference Articles
+## Conference Articles
 
-### Awards and Fellowships
-
-
-### Internships and Collaborations
+## Awards and Fellowships
 
 
-### Other Experiences
+## Internships and Collaborations
+
+
+## Other Experiences
 
 
 ---
