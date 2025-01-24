@@ -1,6 +1,6 @@
 ---
 name: Sucheta Ghosh
-image: 
+image: /images/sucheta-ghosh.png 
 role: postdoc
 group: alum
 links:
