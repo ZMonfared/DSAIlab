@@ -11,7 +11,7 @@ nav:
 </div>
 {% include section.html %}
 <div style="text-align: center;">
-  <img src="../images/Team-image-new.jpg" alt="team photo" style="width: 50%; height: auto;"/>
+  <img src="..images/new_visitor_image.jpg" alt="team photo" style="width: 50%; height: auto;"/>
 </div>
 
 {% include section.html %}
