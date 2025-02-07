@@ -11,7 +11,7 @@ image: images/group-image-corner.jpg
 ---
 
 <div>
-  <img src="images/group-image-corner.jpg" alt="group image photo" style="width: 500px; height: 500px;"/>
+  <img src="../images/group-image-corner.jpg" alt="group image photo" style="width: 500px; height: 500px;"/>
 </div>
 
 
