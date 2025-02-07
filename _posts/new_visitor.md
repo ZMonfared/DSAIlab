@@ -1,5 +1,5 @@
 ---
-title: Upcoming Research Visit
+title: Upcoming
 image: images/ahmad-image.png
 author: Zahra Monfared
 tags:
