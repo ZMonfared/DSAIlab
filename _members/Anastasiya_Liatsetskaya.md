@@ -5,7 +5,7 @@ image: images/anastasia-image.jpg
 role: phd
 group: alum
 links:
-  email: anastasiya.liatsetskaya@iwr-uni-heidelberg.de
+email: anastasiya.liatsetskaya@iwr-uni-heidelberg.de
 ---
 
 **Education:**
