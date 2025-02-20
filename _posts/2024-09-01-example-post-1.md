@@ -2,11 +2,11 @@
 title: Our Group has been established
 author: Zahra Monfared
 tags:
-  - machine learning
-  - RNN
-  - Time Series Data
-  - AI
-  - Dynamical System
+  - 
+  - 
+  - 
+  - 
+  - 
 image: images/group-image-corner.jpg
 ---
 
