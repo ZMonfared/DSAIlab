@@ -1,5 +1,5 @@
 ---
-title: Our Group has been established
+title: Our Group Has Been Established
 author: Zahra Monfared
 tags:
   - 
