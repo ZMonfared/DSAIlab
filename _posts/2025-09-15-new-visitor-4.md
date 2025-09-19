@@ -1,6 +1,6 @@
 ---
 title: Research Visit
-image: 
+image: images/New_Visitor_Amin.png
 author: Zahra Monfared
 tags:
 ---
