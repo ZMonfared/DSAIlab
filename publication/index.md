@@ -8,13 +8,13 @@ nav:
 
 
 <span style="color: #072140;"> </span>
-**<span style="color: #114584; font-size: 1.2em;">2023</span>**
+**<span style="color: #114584; font-size: 1.2em;">2026</span>**
 
 <ol style="text-align: left; list-style-position: outside; padding-left: 1.2em;">
    <li><span style="color: #072140;">F. Hess, Z. Monfared, M. Brenner, D. Durstewitz, "Generalized Teacher Forcing for Learning Chaotic Dynamics," Proceedings of Machine Learning Research (ICML 2023), 2023.</span></li>
 </ol>
 ---
-<hr>
+
 **<span style="color: #114584; font-size: 1.2em;">2025</span>**
 <ol style="text-align: left; list-style-position: outside; padding-left: 1.2em;">
   <li><span style="color: #072140;">A. Liatsetskaya, Z. Monfared, C. Datar, F. Dietrich, "Recurrent Neural Network-based error estimator in spectral methods for solving PDEs", DTE & AICOMAS 2025, Paris, France</span>, 2025.</li>
