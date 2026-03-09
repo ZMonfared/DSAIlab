@@ -20,9 +20,7 @@ nav:
    <li><span style="color: #072140;">A. Kujur, Z. Monfaredand S. Safavi, "Transient Neural Dynamics Reconstruction",NeurIPS Workshop on Learning from Time
 Series for Health </span> , 2025.</li>
    <li><span style="color: #072140;"> <li><span style="color: #072140;">A. Alshembari, A. Kujur and Z. Monfared, "Autoregressive ConvLSTM Framework for fMRI Time Series Forecasting in Alzheimer’s Disease", NeurIPS Workshop on Learning from Time Series for Health </span> , 2025.</li> 
- 
 </ol>
-
 ---
 **<span style="color: #114584; font-size: 1.2em;">2024</span>**
 
