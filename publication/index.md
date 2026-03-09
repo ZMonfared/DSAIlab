@@ -14,6 +14,14 @@ nav:
   <li><span style="color: #072140;">A. Kujur, Z. Monfared, F. Dietrich, "Multimodal Deep Learning for Dynamic and Static Neuroimaging: Integrating MRI and fMRI for Alzheimer’s Disease Analysis", DTE & AICOMAS 2025, Paris, France </span> , 2025.</li>
   <li><span style="color: #072140;">H. Schwab, Z. Monfared, F. Dietrich, "Koopman Analysis of the Heat Equation", Dynamics Days Europe 2025 conference </span> , 2025.</li>
   <li><span style="color: #072140;">S. Ghosh, Z. Monfared, F. Dietrich, "Self-Supervised Contrastive Learning with Denoising Autoencoders for Robust Event- Related Potential Classification in Noisy EEG Signals for Brain-Computer Interface Motor Tasks", Dynamics Days Europe 2025 conference </span> , 2025.</li>
+   <li><span style="color: #072140;">A. Alshembari , A. Kujur, Z. Monfared, "Deep Spatio-temporal Learning in fMRI Sequence Prediction for Alzheimer’s Disease", 2nd Sorbonne-Heidelberg Workshop on AI in medicine </span> , 2025.</li>
+   <li><span style="color: #072140;">M. Baharifar, A. Kujur, Z. Monfared, "IntAI for Classifying Human- and LLM-Generated Medical Misinformation with Multi-Modal Features", 2nd Sorbonne-Heidelberg Workshop on AI in medicine </span> , 2025.</li>
+   <li><span style="color: #072140;">S. Ghosh, H. A. Liatsetskaya, H. Schwab, F. Dietrich, Z. Monfared, "Multiscale Denoising Autoencoder with Fourier and Wavelet Representations for Robust Air Quality Time Series Classification: A Comparative Study with Transformers", MSML 2025 </span> , 2025.</li>
+   <li><span style="color: #072140;">A. Kujur, Z. Monfaredand S. Safavi, Transient Neural Dynamics Reconstruction,NeurIPS Workshop on Learning from Time
+Series for Health </span> , 2025.</li>
+   <li><span style="color: #072140;"> <li><span style="color: #072140;">A. Alshembari, A. Kujur and Z. Monfared, "Autoregressive ConvLSTM Framework for fMRI Time Series Forecasting in Alzheimer’s Disease, NeurIPS Workshop on Learning from Time Series for Health" </span> , 2025.</li> 
+  
+
 
   
 
