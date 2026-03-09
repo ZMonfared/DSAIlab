@@ -11,7 +11,7 @@ nav:
 **<span style="color: #114584; font-size: 1.2em;">2026</span>**
 
 <ol style="text-align: left; list-style-position: outside; padding-left: 1.2em;">
-   <li><span style="color: #072140;">F. Hess, Z. Monfared, M. Brenner, D. Durstewitz, "Generalized Teacher Forcing for Learning Chaotic Dynamics," Proceedings of Machine Learning Research (ICML 2023), 2023.</span></li>
+   <li><span style="color: #072140;">A. Kujur, Z. Monfared, S. Safavi, "Koopman-based transient dynamics reconstruction", Accepted at COSYNE, 2026.</span></li>
 </ol>
 ---
 
