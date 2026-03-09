@@ -13,7 +13,7 @@ nav:
 **<span style="color: #114584; font-size: 1.2em;">2024</span>**
 
 <ol style="text-align: left; list-style-position: outside; padding-left: 1.2em;">
-   <li><span style="color: #072140;">E. L. Bolager, A. Cukarska, I. Burak, Z. Monfared, F. Dietrich, "Gradient-free training of recurrent neural networks,"</span> <a href="https://doi.org/10.48550/arXiv.2405.08967" style="color: #072140;">arXiv:2405.08967</a>, 2024.</li>
+   <li><span style="color: #072140;">E. L. Bolager, A. Cukarska, I. Burak, Z. Monfared, F. Dietrich, "Gradient-free training of recurrent neural networks,"</span> <a href="https://arxiv.org/abs/2410.23467" style="color: #072140;">https://arxiv.org/abs/2410.23467</a>, 2024.</li>
    <li><span style="color: #072140;">A. Datar, C. Datar, Z. Monfared, F. Dietrich, "Role of Parameterization in Learning Dynamics of Recurrent Neural Networks," NeurIPS OPT2024, 2024.</span></li>
    <li><span style="color: #072140;">M. Brenner, C. Hemmer, Z. Monfared, D. Durstewitz, "Almost-Linear RNNs Yield Highly Interpretable Symbolic Codes in Dynamical Systems Reconstruction," Advances in Neural Information Processing Systems (NeurIPS 2024), 2024.</span></li>
    <li><span style="color: #072140;">N. Göring, F. Hess, M. Brenner, Z. Monfared, D. Durstewitz, "Out-of-Domain Generalization in Dynamical Systems Reconstruction," Proceedings of Machine Learning Research (ICML 2024), 2024.</span></li>
