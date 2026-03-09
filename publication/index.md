@@ -17,17 +17,13 @@ nav:
    <li><span style="color: #072140;">A. Alshembari , A. Kujur, Z. Monfared, "Deep Spatio-temporal Learning in fMRI Sequence Prediction for Alzheimer’s Disease", 2nd Sorbonne-Heidelberg Workshop on AI in medicine </span> , 2025.</li>
    <li><span style="color: #072140;">M. Baharifar, A. Kujur, Z. Monfared, "IntAI for Classifying Human- and LLM-Generated Medical Misinformation with Multi-Modal Features", 2nd Sorbonne-Heidelberg Workshop on AI in medicine </span> , 2025.</li>
    <li><span style="color: #072140;">S. Ghosh, H. A. Liatsetskaya, H. Schwab, F. Dietrich, Z. Monfared, "Multiscale Denoising Autoencoder with Fourier and Wavelet Representations for Robust Air Quality Time Series Classification: A Comparative Study with Transformers", MSML 2025 </span> , 2025.</li>
-   <li><span style="color: #072140;">A. Kujur, Z. Monfaredand S. Safavi, Transient Neural Dynamics Reconstruction,NeurIPS Workshop on Learning from Time
+   <li><span style="color: #072140;">A. Kujur, Z. Monfaredand S. Safavi, "Transient Neural Dynamics Reconstruction",NeurIPS Workshop on Learning from Time
 Series for Health </span> , 2025.</li>
-   <li><span style="color: #072140;"> <li><span style="color: #072140;">A. Alshembari, A. Kujur and Z. Monfared, "Autoregressive ConvLSTM Framework for fMRI Time Series Forecasting in Alzheimer’s Disease, NeurIPS Workshop on Learning from Time Series for Health" </span> , 2025.</li> 
-  
-
-
-  
-
+   <li><span style="color: #072140;"> <li><span style="color: #072140;">A. Alshembari, A. Kujur and Z. Monfared, "Autoregressive ConvLSTM Framework for fMRI Time Series Forecasting in Alzheimer’s Disease", NeurIPS Workshop on Learning from Time Series for Health </span> , 2025.</li> 
+ 
 </ol>
 
-
+---
 **<span style="color: #114584; font-size: 1.2em;">2024</span>**
 
 <ol style="text-align: left; list-style-position: outside; padding-left: 1.2em;">
