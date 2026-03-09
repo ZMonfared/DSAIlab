@@ -8,6 +8,12 @@ nav:
 
 
 <span style="color: #072140;"> </span>
+**<span style="color: #114584; font-size: 1.2em;">2025</span>**
+<ol style="text-align: left; list-style-position: outside; padding-left: 1.2em;">
+  <li><span style="color: #072140;">A Liatsetskaya, Z Monfared, C Datar, F Dietrich "Recurrent Neural Network-based error estimator in spectral methods for solving PDEs"</span> , 2025.</li>
+
+
+</ol>
 
 
 **<span style="color: #114584; font-size: 1.2em;">2024</span>**
