@@ -1,4 +1,3 @@
-
 ---
 title: Publications
 nav:
@@ -22,7 +21,7 @@ nav:
   <li><span style="color: #072140;">A. Alshembari, A. Kujur and Z. Monfared, "Autoregressive ConvLSTM Framework for fMRI Time Series Forecasting in Alzheimer’s Disease", NeurIPS Workshop on Learning from Time Series for Health</span>, 2025.</li>
 </ol>
 <hr>
-**<span style="color: #114584; font-size: 1.2em;">2024</span>**
+<span style="color: #114584; font-size: 1.2em;">2024</span>
 
 <ol style="text-align: left; list-style-position: outside; padding-left: 1.2em;">
    <li><span style="color: #072140;">E. L. Bolager, A. Cukarska, I. Burak, Z. Monfared, F. Dietrich, "Gradient-free training of recurrent neural networks,"</span> <a href="https://arxiv.org/abs/2410.23467" style="color: #072140;">https://arxiv.org/abs/2410.23467</a>, 2024.</li>
