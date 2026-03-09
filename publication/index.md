@@ -11,7 +11,9 @@ nav:
 **<span style="color: #114584; font-size: 1.2em;">2025</span>**
 <ol style="text-align: left; list-style-position: outside; padding-left: 1.2em;">
   <li><span style="color: #072140;">A. Liatsetskaya, Z. Monfared, C. Datar, F. Dietrich, "Recurrent Neural Network-based error estimator in spectral methods for solving PDEs", DTE & AICOMAS 2025, Paris, France </span> , 2025.</li>
-  <li><span style="color: #072140;">A. Kujur, Z. Monfared, F. Dietrich, "Multimodal Deep Learning for Dynamic and Static Neuroimaging: Integrating MRI and fMRI for Alzheimer’s Disease Analysis", DTE & AICOMAS 2025, Paris, France, </span> , 2025.</li>
+  <li><span style="color: #072140;">A. Kujur, Z. Monfared, F. Dietrich, "Multimodal Deep Learning for Dynamic and Static Neuroimaging: Integrating MRI and fMRI for Alzheimer’s Disease Analysis", DTE & AICOMAS 2025, Paris, France </span> , 2025.</li>
+  <li><span style="color: #072140;">H. Schwab, Z. Monfared, F. Dietrich, "Koopman Analysis of the Heat Equation", Dynamics Days Europe 2025 conference </span> , 2025.</li>
+  <li><span style="color: #072140;">S. Ghosh, Z. Monfared, F. Dietrich, "Self-Supervised Contrastive Learning with Denoising Autoencoders for Robust Event- Related Potential Classification in Noisy EEG Signals for Brain-Computer Interface Motor Tasks", Dynamics Days Europe 2025 conference </span> , 2025.</li>
 
   
 
