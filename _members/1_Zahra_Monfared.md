@@ -65,7 +65,8 @@ I am an independent BMBF Research Group Leader in Dynamical Systems and AI at He
 ### <span style="color: #114584;">Honors and Awards</span>
 
 <div style="color: #072140; text-align: left;">
-- BMBF Research Funding for establishing my independent research group (my own position, one Postdoc, 2 PhD positions, and 2 research assistants) in the field of AI (2024–2027) <br>
+- ICML Top Reviewer Award 2025
+- BMBF Research Funding for establishing my independent research group  in the field of AI (2024–2027) <br>
 - NeurIPS Outstanding Reviewer Award, 2021 <br>
 - Research Visit Funding During Ph.D. Program. Institute for Analysis and Algebra, Technical University of Braunschweig, Germany. <br>
 - Ranked 1st in Ph.D. program with highest GPA <br>  
