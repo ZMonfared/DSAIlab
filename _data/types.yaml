@@ -22,6 +22,10 @@ master-student:
   icon: fa-solid fa-user-graduate
   description: Master Student
 
+Former members:
+  icon: fa-solid fa-user-graduate
+  description: Former Member
+
 undergrad:
   icon: fa-solid fa-user-graduate
   description: Undergraduate Student
