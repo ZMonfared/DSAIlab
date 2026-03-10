@@ -1,7 +1,7 @@
 ---
 name: Zixiang Zhou
 image: 
-role: master-student
+role: Former members
 group: alum
 links:
   github: 
