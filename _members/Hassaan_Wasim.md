@@ -1,7 +1,7 @@
 ---
 name: Hassaan Wasim
 image: images/Hassan-wasim.png
-role: master-student
+role: former-members
 group: alum
 links:
   github: Hassan Wasim
