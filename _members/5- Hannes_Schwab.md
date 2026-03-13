@@ -2,7 +2,7 @@
 name: Hannes Schwab
 image: images/Hannes.jpeg
 role: phd
-group: alum
+
 links:
 ---
 <span style="font-size: 2em; color: #072140;">Hannes Schwab</span>
