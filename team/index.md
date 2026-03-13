@@ -22,7 +22,8 @@ nav:
 ## Current Members
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
-  {% assign current = site.members | rejectattr: "group", "equalto", "alum" %}
+  {% assign members = site.members | sort: "path" %}
+  {% assign current = members | where_exp: "item", "item.group != 'alum'" %}
   {% for member in current %}
     {% include portrait.html data=member %}
   {% endfor %}
@@ -33,7 +34,7 @@ nav:
 ## Former Members
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
-  {% assign alumni = site.members | where: "group", "alum" %}
+  {% assign alumni = site.members | where: "group", "alum" | sort: "path" %}
   {% for member in alumni %}
     {% include portrait.html data=member %}
   {% endfor %}
