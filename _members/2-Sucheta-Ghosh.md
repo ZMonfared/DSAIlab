@@ -2,7 +2,7 @@
 name: Sucheta Ghosh
 image: /images/sucheta-ghosh.png 
 role: postdoc
-group: alum
+
 links:
   google-scholar: 
   linkedin: 
