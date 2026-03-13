@@ -30,7 +30,11 @@
     {% endif %}
 
     <div class="post-excerpt-text">
-      <a href="{{ url | relative_url | xml_escape }}">{{ title }}</a>
+      {% if post.external_url %}
+         <a href="{{ post.external_url }}" target="_blank" rel="noopener noreferrer">{{ post.title }}</a>
+      {% else %}
+          <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      {% endif %}
 
       {%
         include post-info.html
