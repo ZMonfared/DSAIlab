@@ -3,7 +3,7 @@ name:  Anastasiya Liatsetskaya
 
 image: images/anastasia-image.jpg
 role: phd
-group: alum
+
 links:
 email: anastasiya.liatsetskaya@iwr-uni-heidelberg.de
 ---
