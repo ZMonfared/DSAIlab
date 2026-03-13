@@ -2,7 +2,7 @@
 name: Ahmed Alshembari
 image: images/ahmad-image.png
 role: ra
-group: alum
+
 links:
   google-scholar: citations?hl=en&amp;user=ydkAuIwAAAAJ
   linkedin: 
