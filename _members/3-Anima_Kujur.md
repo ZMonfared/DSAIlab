@@ -2,7 +2,7 @@
 name: Anima Kujur
 image: images/Anima_Profile_Photo_for_official.png
 role: postdoc
-group: alum
+
 links:
   google-scholar: citations?user=VbSnkz0AAAAJ&hl=en&oi=ao
   linkedin: dr-anima-kujur-584325171/
