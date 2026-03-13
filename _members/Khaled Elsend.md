@@ -2,7 +2,7 @@
 name: Khaled Elsend
 image: images/Khaled Elsend.png
 role: master-student
-group: alum
+
 links:
   github: 
 ---
