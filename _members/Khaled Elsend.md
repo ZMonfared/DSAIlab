@@ -1,6 +1,6 @@
 ---
 name: Khaled Elsend
-image: images/Zixiang.png
+image: images/Khaled Elsend.png
 role: in
 
 links:
