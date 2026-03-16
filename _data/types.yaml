@@ -7,7 +7,7 @@ pm:
   description: Project Manager
 
 research-group-leader:
-  icon: fa-solid fa-chalkboard-teacher
+  #icon: fa-solid fa-chalkboard-teacher
   description: Research Group Leader
 
 postdoc:
