@@ -11,28 +11,33 @@ research-group-leader:
   description: Research Group Leader
 
 postdoc:
-  icon: fa-solid fa-glasses
+  #icon: fa-solid fa-glasses
   description: Postdoctoral Researcher
 
 phd:
-  icon: fa-solid fa-graduation-cap
+  #icon: fa-solid fa-graduation-cap
   description: Phd Student
 
 master-student:
-  icon: fa-solid fa-user-graduate
+  #icon: fa-solid fa-user-graduate
   description: Master Student
 
 Former members:
-  icon: fa-solid fa-user-graduate
-  description: Former Master Student
+  #icon: fa-solid fa-user-graduate
+  description: Master Student
 
 undergrad:
   icon: fa-solid fa-user-graduate
   description: Undergraduate Student
 
 ra:
-  icon: fa-solid fa-book
+  #icon: fa-solid fa-book
   description: Research Assistant
+
+in:
+  #icon: fa-solid fa-book
+  description: Intern Student
+
 
 programmer:
   icon: fa-solid fa-code
