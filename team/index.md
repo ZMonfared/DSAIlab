@@ -5,7 +5,9 @@ nav:
   tooltip: About our team
 ---
 
-# {% include icon.html icon="fa-solid fa-users" %}Team
+<h1 style="font-weight: 800; font-size: 3em; text-align: center;">
+  {% include icon.html icon="fa-solid fa-users" %} Team
+</h1>
 
 <div style="text-align: center;">
   In our lab, we value collaboration, equality, diversity and inclusion. We also respect our differences, and try to get the best out of it.
