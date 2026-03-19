@@ -9,7 +9,7 @@ nav:
   {% include icon.html icon="fa-solid fa-users" %} Team
 </h1>
 
-<div style="text-align: center;">
+<div style="text-align: center; font-size: 1.25em; font-weight: 500; margin-top: 20px;">
   In our lab, we value collaboration, equality, diversity and inclusion. We also respect our differences, and try to get the best out of it.
 </div>
 
