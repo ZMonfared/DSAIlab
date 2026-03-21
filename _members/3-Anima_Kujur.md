@@ -62,10 +62,14 @@ neuroscience, and biomedical research to better understand complex biological sy
 - Kujur, A. and Raza, Z. (2023) **"Performance analysis of 3D brain MRI modalities for brain tumour sub-region segmentation using U-Net architecture"**,Int. J. Electronic Healthcare, Vol.13, No. 4, pp.311–337, doi: 10.1504/IJEH.2023.138256.
 - Kujur, A., Raza, Z. (2024). **"DUNET Dilated UNET for Brain Tumor Sub Region Segmentation using MRI Images"**, Defence Life Science Journal, 9(3), 282–289. https://doi.org/10.14429/dlsj.9.19183
 
-### Conference Articles
-- Study on Data Imbalance in CNN Classifiers for Brain Tumor Data. *2nd Hasankeyf Scientific Studies Congress*, Turkey, 2022.  
-- Dimensionality Reduction and CNN Classifiers for Alzheimer’s Disease. *9th GAP Summit*, Turkey, 2022.  
-- AE-ML Models for Medical Image Classification. *1st Bilsel Efes Congress*, Turkey, 2023.
+### Poster Presentation
+- Anima Kujur, Zahra Monfared, and Shervin Safavi, **“Koopman-based Transient Dynamics Reconstruction”**, Computational and Systems Neuroscience (COSYNE), Lisbon, Portugal, 12-17 March 2026.
+- Anima Kujur, Zahra Monfared, and Shervin Safavi, **"Transient Neural Dynamics Reconstruction"**, Workshop on Learning from Time Series for Health at The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS), San Diego, CA,USA, December 2-7, 2025.
+- Ahmed Alshembari, Anima Kujur, and Zahra Monfared, **"Autoregressive ConvLSTM Framework for Predicting fMRI Time Series Forecasting in Alzheimer’s Disease"** Workshop on Learning from Time Series for Health at The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS), San Diego, CA, USA, December 2-7, 2025.
+- Alshembari Ahmed, Kujur Anima, and Monfared Zahra, **“Deep Spatio-temporal Learning in fMRI Sequence Prediction for Alzheimer’s Disease”**, at Heidelberg University, Germnay, 2025.
+- Mahshid Baharifar, Anima Kujur, and Zahra Monfare, **“Interpretable AI for Classifying Human-and LLM-Generated Medical Misinformation with Multi-Modal Features”**, at Heidelberg University, Germnay, 2025.
+- Anima Kujur, Juergen Hesser, Tobias Meißner, and Zahid Raza, **“Integrating 3D Multimodal CNNs for Brain Tumor Radiogenomic Classification: MGMT Promoter Methylation Prediction in Glioblastoma from mpMRI Fusion,”** MCTN Symposium Imaging in Neuroscience, University Medical Centre, Mannheim, Germany, 7 Dec 2023.
+
 
 ## Awards and Fellowships
 
