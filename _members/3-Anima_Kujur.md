@@ -42,10 +42,13 @@ neuroscience, and biomedical research to better understand complex biological sy
 ## Research Interests
 
 - **Nonlinear Dynamical Systems & Time-Series Modeling:** Modeling complex dynamical systems, analysis of nonlinear attractors (Lorenz, Rössler, Van der Pol), latent dynamical representations, and forecasting of physiological and biomedical signals.   
-- **Operator-Theoretic Learning:** Koopman-based representation learning, spectral analysis of dynamical systems, and interpretable latent dynamics modeling.  
-- **Computational Neuroscience & Neural Signal Analysis:** Analysis of EEG, LFP, and fMRI signals, neural dynamics reconstruction, transient brain ctivity modeling, spatio- temporal learning, and physiological signal forecasting.  
-- **Neuroimaging Analysis:** Integrating structural and functional MRI for Alzheimer’s disease and brain tumor diagnosis.  
-- **Signal Processing:** Leveraging EEG and fMRI data for predictive modeling.
+- **Operator-Theoretic Learning:** Koopman-based representation learning, spectral analysis of dynamical systems, and interpretable latent dynamics modeling.
+- **Computational Neuroscience & Neural Signal Analysis:** Analysis of EEG, LFP, and fMRI signals, neural dynamics reconstruction, transient brain activity modeling, spatio-temporal learning, and physiological signal forecasting.
+- **Artificial Intelligence & Machine Learning:** Deep learning for biomedical data, CNNs, RNN/LSTM, representation learning, and operator-theoretic AI approaches, Dynamic Mode Decomposition (DMD), and Extended DMD (EDMD).  
+- **Medical Image Analysis & Multimodal Neuroimaging:** MRI, CT, and multimodal neuroimaging analysis, radiological image segmentation, disease classification, multimodal data fusion (MRI–fMRI), and AI-driven diagnostic modeling for neurological disorders.
+- **Interpretable & Dynamically Structured Machine Learning:** Mechanistically informed AI models, interpretable latent representations, and training dynamics analysis.
+- **Robust & Translational AI for Biomedical Systems:** Developing reliable AI workflows, cross-dataset generalization, bridging computational modeling with real-world biomedical and health applications.
+
 
 ## Publications
 
