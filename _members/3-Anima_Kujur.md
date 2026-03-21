@@ -53,15 +53,14 @@ neuroscience, and biomedical research to better understand complex biological sy
 ## Publications
 
 ### Research Articles
-- Anima Kujur, Zahra Monfared, and Shervin Safavi, "Transient Neural Dynamics Reconstruction", NeurIPS 2025 Workshop on Learning from Time Series for Health.  
-- Ahmed Alshembari, Anima Kujur, and Zahra Monfared, "Autoregressive ConvLSTM Framework for Predicting fMRI Time Series Forecasting in Alzheimer’s Disease", NeurIPS 2025 Workshop on Learning from Time Series for Health.  
-- Anima Kujur, Zahra Monfared. "Multimodal Deep Learning for Dynamic and Static Neuroimaging: Integrating MRI and fMRI for Alzheimer Disease Analysis", TechRxiv February 20, 2026, DOI: 10.36227/techrxiv.177155636.68666321/v1.
-- A. Kujur and Z. Raza, "High-Fidelity Radiological Image Segmentation with Deep Learning:The AbED-Net Framework for Clinical Diagnosis", 2025 IEEE 4th World Conference on Applied Intelligence and Computing (AIC), GB Nagar, Gwalior, India, 2025, pp. 606-611, doi:10.1109/AIC66080.2025.11211956.
-- A. Kujur and Z. Raza, "Deep Learning-Driven COVID-19 Lesion Segmentation in CT Scans with R-EDNet", 2025 3rd International Conference on Communication, Security, and Artificial Intelligence (ICCSAI), Greater Noida, India, 2025, pp. 368-373, doi: 10.1109/ICCSAI64074.2025.11064039.
-- Anima Kujur, Zahid Raza, Arfat Ahmad Khan and Chitapong Wechtaisong, “Data Complexity Based Evaluation of the Model Dependence of Brain MRI Images for Classification of Brain Tumor and Alzheimer’s Disease,” in IEEE Access, vol. 10, pp. 112117-112133, 2022, doi: 10.1109/ACCESS.2022.3216393.
-- Kujur, A. and Raza, Z. (2023) "Performance analysis of 3D brain MRI modalities for brain tumour sub-region segmentation using U-Net architecture",Int. J. Electronic Healthcare, Vol.13, No. 4, pp.311–337, doi: 10.1504/IJEH.2023.138256.
-- Kujur, A., Raza, Z. (2024). "DUNET Dilated UNET for Brain Tumor Sub Region Segmentation using MRI Images", Defence Life Science Journal, 9(3), 282–289.
-https://doi.org/10.14429/dlsj.9.19183
+- Anima Kujur, Zahra Monfared, and Shervin Safavi, **"Transient Neural Dynamics Reconstruction"**, NeurIPS 2025 Workshop on Learning from Time Series for Health.  
+- Ahmed Alshembari, Anima Kujur, and Zahra Monfared, **"Autoregressive ConvLSTM Framework for Predicting fMRI Time Series Forecasting in Alzheimer’s Disease"**, NeurIPS 2025 Workshop on Learning from Time Series for Health.  
+- Anima Kujur, Zahra Monfared. **"Multimodal Deep Learning for Dynamic and Static Neuroimaging: Integrating MRI and fMRI for Alzheimer Disease Analysis"**, TechRxiv February 20, 2026, DOI: 10.36227/techrxiv.177155636.68666321/v1.
+- A. Kujur and Z. Raza, **"High-Fidelity Radiological Image Segmentation with Deep Learning:The AbED-Net Framework for Clinical Diagnosis"**, 2025 IEEE 4th World Conference on Applied Intelligence and Computing (AIC), GB Nagar, Gwalior, India, 2025, pp. 606-611, doi:10.1109/AIC66080.2025.11211956.
+- A. Kujur and Z. Raza, **"Deep Learning-Driven COVID-19 Lesion Segmentation in CT Scans with R-EDNet"**, 2025 3rd International Conference on Communication, Security, and Artificial Intelligence (ICCSAI), Greater Noida, India, 2025, pp. 368-373, doi: 10.1109/ICCSAI64074.2025.11064039.
+- Anima Kujur, Zahid Raza, Arfat Ahmad Khan and Chitapong Wechtaisong, **“Data Complexity Based Evaluation of the Model Dependence of Brain MRI Images for Classification of Brain Tumor and Alzheimer’s Disease,”** in IEEE Access, vol. 10, pp. 112117-112133, 2022, doi: 10.1109/ACCESS.2022.3216393.
+- Kujur, A. and Raza, Z. (2023) **"Performance analysis of 3D brain MRI modalities for brain tumour sub-region segmentation using U-Net architecture"**,Int. J. Electronic Healthcare, Vol.13, No. 4, pp.311–337, doi: 10.1504/IJEH.2023.138256.
+- Kujur, A., Raza, Z. (2024). **"DUNET Dilated UNET for Brain Tumor Sub Region Segmentation using MRI Images"**, Defence Life Science Journal, 9(3), 282–289. https://doi.org/10.14429/dlsj.9.19183
 
 ### Conference Articles
 - Study on Data Imbalance in CNN Classifiers for Brain Tumor Data. *2nd Hasankeyf Scientific Studies Congress*, Turkey, 2022.  
