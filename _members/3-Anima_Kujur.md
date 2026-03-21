@@ -41,9 +41,9 @@ neuroscience, and biomedical research to better understand complex biological sy
 
 ## Research Interests
 
-- **Deep Learning and AI Applications:** Developing models for medical image segmentation and classification.  
-- **Dynamical Systems and Neural ODEs:** Modeling complex systems and time-series analysis.  
-- **Explainable AI (XAI):** Enhancing model interpretability for clinical decision-making.  
+- **Nonlinear Dynamical Systems & Time-Series Modeling:** Modeling complex dynamical systems, analysis of nonlinear attractors (Lorenz, Rössler, Van der Pol), latent dynamical representations, and forecasting of physiological and biomedical signals.   
+- **Operator-Theoretic Learning:** Koopman-based representation learning, spectral analysis of dynamical systems, and interpretable latent dynamics modeling.  
+- **Computational Neuroscience & Neural Signal Analysis:** Analysis of EEG, LFP, and fMRI signals, neural dynamics reconstruction, transient brain ctivity modeling, spatio- temporal learning, and physiological signal forecasting.  
 - **Neuroimaging Analysis:** Integrating structural and functional MRI for Alzheimer’s disease and brain tumor diagnosis.  
 - **Signal Processing:** Leveraging EEG and fMRI data for predictive modeling.
 
