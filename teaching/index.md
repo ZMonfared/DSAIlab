@@ -20,7 +20,7 @@ nav:
 
 **Summer Semester 2026 · UniHeidelberg:** Thursdays 16:00–18:00, starting 07.05.2026. 
 
-Teacher(s): Dr. Zahra Monfared, Prof. Dr. Jakob Zech, Dr. Sucheta Ghosh.
+**Teacher(s):** Dr. Zahra Monfared, Prof. Dr. Jakob Zech, Dr. Sucheta Ghosh.
 
 This course introduces scientific machine learning at the intersection of machine learning, dynamical systems, and differential equations. Topics include neural ODEs, ResNets, time-series modeling with RNNs and Transformers, Koopman operator theory, operator learning for PDEs, and applications in neuroscience and weather/climate modeling.
 
@@ -30,7 +30,7 @@ This course introduces scientific machine learning at the intersection of machin
 
 **Winter Semester 2025/2026 · UniHeidelberg:** Tuesdays, starting 04.11.2025. 
 
-Teacher(s): Dr. Zahra Monfared, Dr. Sucheta Ghosh.
+**Teacher(s):** Dr. Zahra Monfared, Dr. Sucheta Ghosh.
 
 This course explores the bidirectional connection between dynamical systems and machine learning: how dynamical systems theory can support interpretable learning methods, and how neural networks and data-driven models can help discover, forecast, and analyze nonlinear dynamics. Topics include scientific machine learning, RNNs and Transformers for time series, PDE approximation, Koopman theory, neural operators, and real-world applications.
 
