@@ -6,4 +6,4 @@ external_url: "https://structures.uni-heidelberg.de/news/files/2026/STRUCTURES_N
 tags:
 ---
 
-Dr. Zahra Monfared is featured in the STRUCTURES Asks interview.
+Dr. Zahra Monfared is featured in the STRUCTURES Asks interview, April 2026.
