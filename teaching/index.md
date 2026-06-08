@@ -26,7 +26,7 @@ This course introduces scientific machine learning at the intersection of machin
 
 ### Machine Learning and Dynamical Systems
 
-**Winter Semester 2025/2026 · UniHeidelberg:** Tuesdays, starting 04.11.2025. Teacher(s): Dr. Zahra Monfared, Anastasiya Liatsetskaya, Hannes Schwab, Dr. Sucheta Ghosh
+**Winter Semester 2025/2026 · UniHeidelberg:** Tuesdays, starting 04.11.2025. Teacher(s): Dr. Zahra Monfared, Dr. Sucheta Ghosh
 
 This course explores the bidirectional connection between dynamical systems and machine learning: how dynamical systems theory can support interpretable learning methods, and how neural networks and data-driven models can help discover, forecast, and analyze nonlinear dynamics. Topics include scientific machine learning, RNNs and Transformers for time series, PDE approximation, Koopman theory, neural operators, and real-world applications.
 
