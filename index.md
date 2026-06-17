@@ -5,7 +5,7 @@
 
 ## <span style="font-weight: bold; font-size: 1em;">Welcome!</span> 
 
-Our group (started September 2024) is funded by the **Federal Ministry of Education and Research (BMBF)** through the project OIDLITDSM in the field of AI. It is located at the **Interdisciplinary Center for Scientific Computing (IWR)**, Heidelberg University. We are also affiliated with the Faculty of Mathematics and Computer Science at Heidelberg University.
+Our group (started September 2024) is funded by the **Federal Ministry of Education and Research (BMBF/BMFTR)** through the project OIDLITDSM in the field of AI. It is located at the **Interdisciplinary Center for Scientific Computing (IWR)**, Heidelberg University. We are also affiliated with the Faculty of Mathematics and Computer Science at Heidelberg University.
 
 <div style="text-align: center;">
   <img src="images/Pic_BMBF_Up4.png" alt="team photo" style="width: 65%; height: 400px;;"/>
@@ -25,7 +25,7 @@ There has been a substantial paradigm shift in the field of mathematics, particu
 
 **Our group also focuses on advancing AI techniques for neuroimaging analysis:**
 
-<span style="font-weight: bold; font-size: 1.3em;">Neuroimaging analysis.</span> We advance AI techniques for neuroimaging analysis by developing deep learning frameworks that combine multiple modalities of brain imaging data. By integrating structural imaging (such as MRI) and functional imaging (such as fMRI or EEG), we aim to gain a comprehensive view of brain health. This integrative approach helps in identifying subtle patterns in brain structure and activity associated with neurodegenerative diseases, such as Alzheimer’s and Parkinson’s. Additionally, it enables us to understand the dynamic processes underlying cognitive functions and brain disorders. Our goal is to improve early diagnostic accuracy and contribute to the development of personalized monitoring tools for tracking disease progression, which may eventually aid in creating targeted therapeutic strategies.
+<span style="font-weight: bold; font-size: 1.3em;">Neuroimaging analysis.</span> We advance AI techniques for neuroimaging analysis by developing deep learning frameworks that combine multiple modalities of brain imaging data. By integrating structural imaging (such as MRI) and functional imaging (such as fMRI or EEG), we aim to gain a comprehensive view of brain health. This integrative approach helps in identifying subtle patterns in brain structure and activity associated with neurodegenerative diseases, such as Alzheimer’s and Parkinson’s. Additionally, it enables us to understand the dynamic processes underlying cognitive functions and brain disorders. Our goal is to improve early diagnostic accuracy and contribute to the development of personalized monitoring tools for tracking disease progression, which may eventually aid in creating targeted therapeutic strategies.7
 
 
 ## <span style="color: #114584; font-weight: bold; font-size: 1.5em;">Applications</span>
