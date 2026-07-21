@@ -11,7 +11,7 @@ Title: Self-Induced Stochastic Resonance in Slow-Fast Neurons: From Dynamical Me
 
 Speaker: Dr. Marius Yamakou, FAU Erlangen/Nürnberg
 
-Date-Time & Place: 22nd July,2026 13:30-14:30 INF 205 Room 2/414
+Date-Time & Place: 22nd July,2026 13:00-14:00 INF 205 Room 2/414
 
 Abstract: Self-induced stochastic resonance is a noise-driven mechanism by which coherent oscillations emerge in slow-fast excitable neurons without external periodic forcing. In this talk, I will discuss how the interaction between intrinsic timescale separation and stochastic fluctuations can generate regular spiking activity in regimes where the deterministic dynamics remain excitable.
 
