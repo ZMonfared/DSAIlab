@@ -8,4 +8,4 @@ tags:
 <br>
 <br>
 
-We congratulate **Dr. Markus Yamakou** of FAU Erlangen/Nürnberg on his successful habilitation talk, hosted by our research group.
+We congratulate **Dr. Marius Yamakou** of FAU Erlangen/Nürnberg on his successful habilitation talk, hosted by our research group.
