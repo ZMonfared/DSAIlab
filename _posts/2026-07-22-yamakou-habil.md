@@ -1,5 +1,5 @@
 ---
-title: Dr.YamaKou-habilitation-talk
+title: Dr.YamaKou-external-seminar
 image: images/yamakou.png
 author: Webadmin DSAI Group
 tags:
