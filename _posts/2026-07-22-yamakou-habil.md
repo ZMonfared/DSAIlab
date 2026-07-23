@@ -8,4 +8,4 @@ tags:
 <br>
 <br>
 
-We congratulate **Dr. Marius Yamakou** of FAU Erlangen/Nürnberg on his successful habilitation talk, hosted by our research group.
+It was a pleasure to host **Dr. Marius Yamakou** from FAU Erlangen/Nürnberg for a talk with the title: "Self-Induced Stochastic Resonance in Slow-Fast Neurons: From Dynamical Mechanisms to Physics-Informed Machine Learning".
