@@ -1,5 +1,5 @@
 ---
-title: Events
+title: Upcoming Events
 nav:
   order: 5
   tooltip: Conferences and Workshops Organised
