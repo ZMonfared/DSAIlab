@@ -1,8 +1,8 @@
 ---
-title: Upcoming Events
+title: Events
 nav:
   order: 5
-  tooltip: Conferences and Workshops Organised
+  tooltip: Upcoming Events, Conferences and Workshops Organised
 ---
 
 # {% include icon.html icon="fa-solid fa-feather-pointed" %}Events
