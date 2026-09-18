@@ -2,7 +2,7 @@
 title: "YRC Schöntal Discussion Workshop on Dynamical Systems"
 image: images/poster_schoental2026.png
 author: Webadmin DSAI Group
-external_url: "https://structures.uni-heidelberg.de/news/files/2026/STRUCTURES_Newsletter_v24_2026_April.pdf"
+external_url: "https://structures.uni-heidelberg.de/news.php?showId=374"
 tags:
 ---
 
