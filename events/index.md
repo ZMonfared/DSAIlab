@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-feather-pointed" %}Events
 
-We are pleased to announce that our group will host **Moh Kamalul Wafi** from the **Northeastern University, USA** as a research visitor for DAAD AINeT Networking Tour in September 21-25, 2026. Moh Kamalul Wafi is a Ph.D. candidate and researcher specializing in control systems engineering at Northeastern University, USA. He completed an M.Sc. DIC in Control Systems at Imperial College London. He studies adaptive control, distributed estimation, and networked dynamical systems. We are pleased to announce a talk by Mr. Wafi. 
+We are pleased to announce that our group will host **Moh Kamalul Wafi** from the **Northeastern University, USA** as a research visitor for DAAD AINeT Networking Tour in September 21-25, 2026. Moh Kamalul Wafi is a Ph.D. candidate and researcher specializing in control systems engineering at Northeastern University, USA. He completed an M.Sc. DIC in Control Systems at Imperial College London. He studies adaptive control, distributed estimation, and networked dynamical systems. We are pleased to announce a talk by Mr. Wafi on 23. Sept Wednesday at 2/414 at 13:00Hr. 
 
 **Title:** Learning in Feedback Systems: Stability, Optimization, and Adaptation.
 
