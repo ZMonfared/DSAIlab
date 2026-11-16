@@ -26,6 +26,10 @@ Former members:
   #icon: fa-solid fa-user-graduate
   description: Master Student
 
+Former members1:
+  #icon: fa-solid fa-user-graduate
+  description: Research Assistant
+
 undergrad:
   icon: fa-solid fa-user-graduate
   description: Undergraduate Student
@@ -37,6 +41,10 @@ ra:
 in:
   #icon: fa-solid fa-book
   description: Intern Student
+
+intern:
+  #icon: fa-solid fa-book
+  description: Intern
 
 
 programmer:

@@ -1,7 +1,8 @@
 ---
 name: Mahshid Baharifar
 image: images/mahshid_image.jpg
-role: ra
+role: Former members1
+group: alum
 aliases:
   - M. Baharifar
   - M. Bahari

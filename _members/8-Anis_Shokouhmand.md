@@ -1,7 +1,7 @@
 ---
 name: Anis Shokouhmand
 image: /images/Anis-photo.jpg 
-role: Intern
+role: ra
 
 links:
   google-scholar: 
